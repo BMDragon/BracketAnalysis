@@ -2,41 +2,41 @@
 1 Georgetown 68-43 16 Lehigh
 8 Temple 60-57 9 Virginia Tech
 5 SMU 85-68 12 Old Dominion
-4 Loyola (IL) 59-58 13 Iona
-6 Georgia 67-59 11 Wichita State
+4 Loyola Chicago 59-58 13 Iona
+6 Georgia 67-59 11 Wichita St
 3 Illinois 76-57 14 Northeastern
 7 Syracuse 70-65 10 DePaul
 2 Georgia Tech 65-58 15 Mercer
 1 Georgetown 63-46 8 Temple
-5 SMU 57-70 4 Loyola (IL)
+5 SMU 57-70 4 Loyola Chicago
 6 Georgia 58-74 3 Illinois
 7 Syracuse 53-70 2 Georgia Tech
-1 Georgetown 65-53 4 Loyola (IL)
+1 Georgetown 65-53 4 Loyola Chicago
 3 Illinois 53-61 2 Georgia Tech
 1 Georgetown 60-54 2 Georgia Tech
-1 Oklahoma 96-83 16 North Carolina A&T
-8 USC 55-58 9 Illinois State
-5 Louisiana Tech 78-54 12 Pitt
-4 Ohio State 75-64 13 Iowa State
+1 Oklahoma 96-83 16 NC A&T
+8 USC 55-58 9 Illinois St
+5 LA Tech 78-54 12 Pitt
+4 Ohio St 75-64 13 Iowa St
 6 Texas Tech 53-55 11 Boston College
 3 Duke 75-62 14 Pepperdine
-7 UAB 70-68 10 Michigan State
+7 UAB 70-68 10 Michigan St
 2 Memphis 67-55 15 Penn
-1 Oklahoma 75-69 9 Illinois State
-5 Louisiana Tech 79-67 4 Ohio State
+1 Oklahoma 75-69 9 Illinois St
+5 LA Tech 79-67 4 Ohio St
 11 Boston College 74-73 3 Duke
 7 UAB 66-67 2 Memphis
-1 Oklahoma 86-84 5 Louisiana Tech
+1 Oklahoma 86-84 5 LA Tech
 11 Boston College 57-59 2 Memphis
 1 Oklahoma 61-63 2 Memphis
 1 Michigan 59-55 16 FDU
 8 Villanova 51-49 9 Dayton
-5 Maryland 69-68 12 Miami (OH)
+5 Maryland 69-68 12 Miami OH
 4 LSU 55-78 13 Navy
 6 Purdue 58-59 11 Auburn
 3 Kansas 49-38 14 Ohio
-7 Notre Dame 79-70 10 Oregon State
-2 UNC 76-57 15 Middle Tennessee
+7 Notre Dame 79-70 10 Oregon St
+2 UNC 76-57 15 MTSU
 1 Michigan 55-59 8 Villanova
 5 Maryland 64-59 13 Navy
 11 Auburn 66-64 3 Kansas
@@ -44,79 +44,79 @@
 8 Villanova 46-43 5 Maryland
 11 Auburn 56-62 2 UNC
 8 Villanova 56-44 2 UNC
-1 St. John's (NY) 83-59 16 Southern
+1 St. Johns 83-59 16 Southern
 8 Iowa 54-63 9 Arkansas
 5 Washington 58-66 12 Kentucky
-4 UNLV 85-80 13 San Diego State
+4 UNLV 85-80 13 San Diego St
 6 Tulsa 75-79 11 UTEP
-3 NC State 65-56 14 Nevada
+3 NC St 65-56 14 Nevada
 7 Alabama 50-41 10 Arizona
 2 VCU 81-65 15 Marshall
-1 St. John's (NY) 68-65 9 Arkansas
+1 St. Johns 68-65 9 Arkansas
 12 Kentucky 64-61 4 UNLV
-11 UTEP 73-86 3 NC State
+11 UTEP 73-86 3 NC St
 7 Alabama 63-59 2 VCU
-1 St. John's (NY) 86-70 12 Kentucky
-3 NC State 61-55 7 Alabama
-1 St. John's (NY) 69-60 3 NC State
+1 St. Johns 86-70 12 Kentucky
+3 NC St 61-55 7 Alabama
+1 St. Johns 69-60 3 NC St
 8 Villanova 52-45 2 Memphis
-1 St. John's (NY) 59-77 1 Georgetown
+1 St. Johns 59-77 1 Georgetown
 8 Villanova 66-64 1 Georgetown
 1986
-1 Duke 85-78 16 Mississippi Valley State
+1 Duke 85-78 16 MVSU
 8 Old Dominion 72-64 9 West Virginia
 5 Virginia 68-72 12 DePaul
 4 Oklahoma 80-74 13 Northeastern
 6 St. Joseph's 60-59 11 Richmond
-3 Indiana 79-83 14 Cleveland State
+3 Indiana 79-83 14 Cleveland St
 7 Navy 87-68 10 Tulsa
 2 Syracuse 101-52 15 Brown
 1 Duke 89-61 8 Old Dominion
 12 DePaul 74-69 4 Oklahoma
-6 St. Joseph's 69-75 14 Cleveland State
+6 St. Joseph's 69-75 14 Cleveland St
 7 Navy 97-85 2 Syracuse
 1 Duke 74-67 12 DePaul
-14 Cleveland State 70-71 7 Navy
+14 Cleveland St 70-71 7 Navy
 1 Duke 71-50 7 Navy
-1 Kansas 71-46 16 North Carolina A&T
+1 Kansas 71-46 16 NC A&T
 8 Jacksonville 50-61 9 Temple
-5 Michigan State 72-70 12 Washington
+5 Michigan St 72-70 12 Washington
 4 Georgetown 70-64 13 Texas Tech
-6 NC State 66-64 11 Iowa
+6 NC St 66-64 11 Iowa
 3 Notre Dame 83-90 14 Little Rock
-7 Iowa State 81-79 10 Miami (OH)
+7 Iowa St 81-79 10 Miami OH
 2 Michigan 70-64 15 Akron
 1 Kansas 65-43 9 Temple
-5 Michigan State 80-68 4 Georgetown
-6 NC State 80-66 14 Little Rock
-7 Iowa State 72-69 2 Michigan
-1 Kansas 96-86 5 Michigan State
-6 NC State 70-66 7 Iowa State
-1 Kansas 75-67 6 NC State
+5 Michigan St 80-68 4 Georgetown
+6 NC St 80-66 14 Little Rock
+7 Iowa St 72-69 2 Michigan
+1 Kansas 96-86 5 Michigan St
+6 NC St 70-66 7 Iowa St
+1 Kansas 75-67 6 NC St
 1 Kentucky 75-55 16 Davidson
-8 Western Kentucky 67-59 9 Nebraska
+8 WKU 67-59 9 Nebraska
 5 Alabama 97-80 12 Xavier
 4 Illinois 75-51 13 Fairfield
 6 Purdue 87-94 11 LSU
-3 Memphis 95-63 14 Ball State
+3 Memphis 95-63 14 Ball St
 7 Virginia Tech 62-71 10 Villanova
 2 Georgia Tech 68-53 15 Marist
-1 Kentucky 71-64 8 Western Kentucky
+1 Kentucky 71-64 8 WKU
 5 Alabama 58-56 4 Illinois
 11 LSU 83-81 3 Memphis
 10 Villanova 61-66 2 Georgia Tech
 1 Kentucky 68-63 5 Alabama
 11 LSU 70-64 2 Georgia Tech
 1 Kentucky 57-59 11 LSU
-1 St. John's (NY) 83-74 16 Montana State
+1 St. Johns 83-74 16 Montana St
 8 Auburn 73-63 9 Arizona
 5 Maryland 69-64 12 Pepperdine
-4 UNLV 74-51 13 Louisiana-Monroe
+4 UNLV 74-51 13 LA Monroe
 6 UAB 66-64 11 Missouri
 3 UNC 84-72 14 Utah
 7 Bradley 83-65 10 UTEP
 2 Louisville 93-73 15 Drexel
-1 St. John's (NY) 65-81 8 Auburn
+1 St. Johns 65-81 8 Auburn
 5 Maryland 64-70 4 UNLV
 6 UAB 59-77 3 UNC
 7 Bradley 68-82 2 Louisville
@@ -129,16 +129,16 @@
 1987
 1 UNC 113-82 16 Penn
 8 Navy 82-97 9 Michigan
-5 Notre Dame 84-71 12 Middle Tennessee
+5 Notre Dame 84-71 12 MTSU
 4 TCU 76-60 13 Marshall
-6 Florida 82-70 11 NC State
+6 Florida 82-70 11 NC St
 3 Purdue 104-95 14 Northeastern
-7 West Virginia 62-64 10 Western Kentucky
-2 Syracuse 79-73 15 Georgia Southern
+7 West Virginia 62-64 10 WKU
+2 Syracuse 79-73 15 Georgia So
 1 UNC 109-97 9 Michigan
 5 Notre Dame 58-57 4 TCU
 6 Florida 85-66 3 Purdue
-10 Western Kentucky 86-104 2 Syracuse
+10 WKU 86-104 2 Syracuse
 1 UNC 74-68 5 Notre Dame
 6 Florida 81-87 2 Syracuse
 1 UNC 75-79 2 Syracuse
@@ -146,41 +146,41 @@
 8 Auburn 62-61 9 San Diego
 5 Duke 58-51 12 Texas A&M
 4 Missouri 69-70 13 Xavier
-6 St. John's (NY) 57-55 11 Wichita State
-3 DePaul 76-62 14 Louisiana Tech
+6 St. Johns 57-55 11 Wichita St
+3 DePaul 76-62 14 LA Tech
 7 Georgia Tech 79-85 10 LSU
 2 Temple 75-56 15 Southern
 1 Indiana 107-90 8 Auburn
 5 Duke 65-60 13 Xavier
-6 St. John's (NY) 75-83 3 DePaul
+6 St. Johns 75-83 3 DePaul
 10 LSU 72-62 2 Temple
 1 Indiana 88-82 5 Duke
 3 DePaul 58-63 10 LSU
 1 Indiana 77-76 10 LSU
 1 Georgetown 75-53 16 Bucknell
-8 Kentucky 77-91 9 Ohio State
+8 Kentucky 77-91 9 Ohio St
 5 Kansas 66-55 12 Houston
-4 Clemson 60-65 13 Missouri State
+4 Clemson 60-65 13 Missouri St
 6 Providence 90-68 11 UAB
 3 Illinois 67-68 14 Austin Peay
 7 New Orleans 83-79 10 BYU
-2 Alabama 88-71 15 North Carolina A&T
-1 Georgetown 82-79 9 Ohio State
-5 Kansas 67-63 13 Missouri State
+2 Alabama 88-71 15 NC A&T
+1 Georgetown 82-79 9 Ohio St
+5 Kansas 67-63 13 Missouri St
 6 Providence 90-87 14 Austin Peay
 7 New Orleans 76-101 2 Alabama
 1 Georgetown 70-57 5 Kansas
 6 Providence 103-82 2 Alabama
 1 Georgetown 73-88 6 Providence
-1 UNLV 95-70 16 Idaho State
-8 Georgia 79-82 9 Kansas State
+1 UNLV 95-70 16 Idaho St
+8 Georgia 79-82 9 Kansas St
 5 Virginia 60-64 12 Wyoming
-4 UCLA 92-73 13 Central Michigan
+4 UCLA 92-73 13 C Mich
 6 Oklahoma 74-69 11 Tulsa
 3 Pitt 93-68 14 Marist
 7 UTEP 98-91 10 Arizona
 2 Iowa 99-76 15 Santa Clara
-1 UNLV 80-61 9 Kansas State
+1 UNLV 80-61 9 Kansas St
 12 Wyoming 78-68 4 UCLA
 6 Oklahoma 96-93 3 Pitt
 7 UTEP 82-84 2 Iowa
@@ -193,12 +193,12 @@
 1988
 1 Temple 87-73 16 Lehigh
 8 Georgetown 66-63 9 LSU
-5 Georgia Tech 90-78 12 Iowa State
+5 Georgia Tech 90-78 12 Iowa St
 4 Indiana 69-72 13 Richmond
 6 Missouri 80-87 11 Rhode Island
-3 Syracuse 69-55 14 North Carolina A&T
+3 Syracuse 69-55 14 NC A&T
 7 SMU 83-75 10 Notre Dame
-2 Duke 85-69 15 Boston University
+2 Duke 85-69 15 Boston
 1 Temple 74-53 8 Georgetown
 5 Georgia Tech 55-59 13 Richmond
 11 Rhode Island 97-94 3 Syracuse
@@ -208,22 +208,22 @@
 1 Temple 53-63 2 Duke
 1 Purdue 94-79 16 FDU
 8 Baylor 60-75 9 Memphis
-5 DePaul 83-62 12 Wichita State
-4 Kansas State 66-53 13 La Salle
+5 DePaul 83-62 12 Wichita St
+4 Kansas St 66-53 13 La Salle
 6 Kansas 85-72 11 Xavier
-3 NC State 75-78 14 Murray State
-7 Vanderbilt 80-77 10 Utah State
-2 Pitt 108-90 15 Eastern Michigan
+3 NC St 75-78 14 Murray St
+7 Vanderbilt 80-77 10 Utah St
+2 Pitt 108-90 15 E Mich
 1 Purdue 100-73 9 Memphis
-5 DePaul 58-66 4 Kansas State
-6 Kansas 61-58 14 Murray State
+5 DePaul 58-66 4 Kansas St
+6 Kansas 61-58 14 Murray St
 7 Vanderbilt 80-74 2 Pitt
-1 Purdue 70-73 4 Kansas State
+1 Purdue 70-73 4 Kansas St
 6 Kansas 77-64 7 Vanderbilt
-4 Kansas State 58-71 6 Kansas
+4 Kansas St 58-71 6 Kansas
 1 Oklahoma 94-66 16 Chattanooga
 8 Auburn 90-86 9 Bradley
-5 Louisville 70-61 12 Oregon State
+5 Louisville 70-61 12 Oregon St
 4 BYU 98-92 13 Charlotte
 6 Villanova 82-74 11 Arkansas
 3 Illinois 81-72 14 UTSA
@@ -238,12 +238,12 @@
 1 Oklahoma 78-59 6 Villanova
 1 Arizona 90-50 16 Cornell
 8 Seton Hall 80-64 9 UTEP
-5 Iowa 102-98 12 Florida State
-4 UNLV 54-50 13 Missouri State
-6 Florida 62-59 11 St. John's (NY)
-3 Michigan 63-58 14 Boise State
+5 Iowa 102-98 12 Florida St
+4 UNLV 54-50 13 Missouri St
+6 Florida 62-59 11 St. Johns
+3 Michigan 63-58 14 Boise St
 7 Wyoming 115-119 10 Loyola Marymount
-2 UNC 83-65 15 North Texas
+2 UNC 83-65 15 UNT
 1 Arizona 84-55 8 Seton Hall
 5 Iowa 104-86 4 UNLV
 6 Florida 85-108 3 Michigan
@@ -257,45 +257,45 @@
 1989
 1 Georgetown 50-49 16 Princeton
 8 Vanderbilt 65-81 9 Notre Dame
-5 NC State 81-66 12 South Carolina
+5 NC St 81-66 12 South Carolina
 4 Iowa 87-73 13 Rutgers
-6 Kansas State 75-86 11 Minnesota
+6 Kansas St 75-86 11 Minnesota
 3 Stanford 78-80 14 Siena
 7 West Virginia 84-68 10 Tennessee
-2 Duke 90-69 15 South Carolina State
+2 Duke 90-69 15 SC St
 1 Georgetown 81-74 9 Notre Dame
-5 NC State 102-96 4 Iowa
+5 NC St 102-96 4 Iowa
 11 Minnesota 80-67 14 Siena
 7 West Virginia 63-70 2 Duke
-1 Georgetown 69-61 5 NC State
+1 Georgetown 69-61 5 NC St
 11 Minnesota 70-87 2 Duke
 1 Georgetown 77-85 2 Duke
-1 Illinois 77-71 16 McNeese State
-8 Pitt 64-68 9 Ball State
+1 Illinois 77-71 16 McNeese St
+8 Pitt 64-68 9 Ball St
 5 Arkansas 120-101 12 Loyola Marymount
 4 Louisville 76-71 13 Little Rock
 6 Georgia Tech 70-76 11 Texas
 3 Missouri 85-69 14 Creighton
-7 Florida 46-68 10 Colorado State
+7 Florida 46-68 10 Colorado St
 2 Syracuse 104-81 15 Bucknell
-1 Illinois 72-60 9 Ball State
+1 Illinois 72-60 9 Ball St
 5 Arkansas 84-93 4 Louisville
 11 Texas 89-108 3 Missouri
-10 Colorado State 50-65 2 Syracuse
+10 Colorado St 50-65 2 Syracuse
 1 Illinois 83-69 4 Louisville
 3 Missouri 80-83 2 Syracuse
 1 Illinois 89-86 2 Syracuse
 1 Oklahoma 72-71 16 ETSU
-8 La Salle 74-83 9 Louisiana Tech
+8 La Salle 74-83 9 LA Tech
 5 Virginia 100-97 12 Providence
-4 Florida State 83-97 13 Middle Tennessee
-6 Alabama 84-86 11 South Alabama
+4 Florida St 83-97 13 MTSU
+6 Alabama 84-86 11 S Alabama
 3 Michigan 92-87 14 Xavier
-7 UCLA 84-74 10 Iowa State
+7 UCLA 84-74 10 Iowa St
 2 UNC 93-79 15 Southern
-1 Oklahoma 124-81 9 Louisiana Tech
-5 Virginia 104-88 13 Middle Tennessee
-11 South Alabama 82-91 3 Michigan
+1 Oklahoma 124-81 9 LA Tech
+5 Virginia 104-88 13 MTSU
+11 S Alabama 82-91 3 Michigan
 7 UCLA 81-88 2 UNC
 1 Oklahoma 80-86 5 Virginia
 3 Michigan 92-87 2 UNC
@@ -304,10 +304,10 @@
 8 Saint Mary's 70-83 9 Clemson
 5 Memphis 63-66 12 DePaul
 4 UNLV 68-56 13 Idaho
-6 Oregon State 90-94 11 Evansville
-3 Seton Hall 60-51 14 Missouri State
+6 Oregon St 90-94 11 Evansville
+3 Seton Hall 60-51 14 Missouri St
 7 UTEP 85-74 10 LSU
-2 Indiana 99-85 15 George Mason
+2 Indiana 99-85 15 GMU
 1 Arizona 94-68 9 Clemson
 12 DePaul 70-85 4 UNLV
 11 Evansville 73-87 3 Seton Hall
@@ -319,29 +319,29 @@
 2 Duke 78-95 3 Seton Hall
 3 Michigan 80-79 3 Seton Hall
 1990
-1 UConn 76-52 16 Boston University
+1 UConn 76-52 16 Boston
 8 Indiana 63-65 9 California
 5 Clemson 49-47 12 BYU
 4 La Salle 79-63 13 Southern Miss
-6 St. John's (NY) 81-65 11 Temple
+6 St. Johns 81-65 11 Temple
 3 Duke 81-46 14 Richmond
 7 UCLA 68-56 10 UAB
 2 Kansas 79-71 15 Robert Morris
 1 UConn 74-54 9 California
 5 Clemson 79-75 4 La Salle
-6 St. John's (NY) 72-76 3 Duke
+6 St. Johns 72-76 3 Duke
 7 UCLA 71-70 2 Kansas
 1 UConn 71-70 5 Clemson
 3 Duke 90-81 7 UCLA
 1 UConn 78-79 3 Duke
 1 Oklahoma 77-68 16 Towson
-8 UNC 83-70 9 Missouri State
+8 UNC 83-70 9 Missouri St
 5 Illinois 86-88 12 Dayton
 4 Arkansas 68-64 13 Princeton
-6 Xavier 87-79 11 Kansas State
-3 Georgetown 70-52 14 Texas Southern
+6 Xavier 87-79 11 Kansas St
+3 Georgetown 70-52 14 Texas So
 7 Georgia 88-100 10 Texas
-2 Purdue 75-63 15 Louisiana-Monroe
+2 Purdue 75-63 15 LA Monroe
 1 Oklahoma 77-79 8 UNC
 12 Dayton 84-86 4 Arkansas
 6 Xavier 74-71 3 Georgetown
@@ -349,34 +349,34 @@
 8 UNC 73-96 4 Arkansas
 6 Xavier 89-102 10 Texas
 4 Arkansas 88-85 10 Texas
-1 Michigan State 75-71 16 Murray State
+1 Michigan St 75-71 16 Murray St
 8 Houston 66-70 9 UCSB
 5 LSU 70-63 12 Villanova
 4 Georgia Tech 99-83 13 ETSU
 6 Minnesota 64-61 11 UTEP
-3 Missouri 71-74 14 Northern Iowa
+3 Missouri 71-74 14 N Iowa
 7 Virginia 75-67 10 Notre Dame
-2 Syracuse 70-48 15 Coppin State
-1 Michigan State 62-58 9 UCSB
+2 Syracuse 70-48 15 Coppin St
+1 Michigan St 62-58 9 UCSB
 5 LSU 91-94 4 Georgia Tech
-6 Minnesota 81-78 14 Northern Iowa
+6 Minnesota 81-78 14 N Iowa
 7 Virginia 61-63 2 Syracuse
-1 Michigan State 80-81 4 Georgia Tech
+1 Michigan St 80-81 4 Georgia Tech
 6 Minnesota 82-75 2 Syracuse
 4 Georgia Tech 93-91 6 Minnesota
 1 UNLV 102-72 16 Little Rock
-8 Ohio State 84-83 9 Providence
-5 Oregon State 53-54 12 Ball State
+8 Ohio St 84-83 9 Providence
+5 Oregon St 53-54 12 Ball St
 4 Louisville 78-59 13 Idaho
-6 New Mexico State 92-111 11 Loyola Marymount
-3 Michigan 76-70 14 Illinois State
-7 Alabama 71-54 10 Colorado State
-2 Arizona 79-67 15 South Florida
-1 UNLV 76-65 8 Ohio State
-12 Ball State 62-60 4 Louisville
+6 New Mexico St 92-111 11 Loyola Marymount
+3 Michigan 76-70 14 Illinois St
+7 Alabama 71-54 10 Colorado St
+2 Arizona 79-67 15 USF
+1 UNLV 76-65 8 Ohio St
+12 Ball St 62-60 4 Louisville
 11 Loyola Marymount 149-115 3 Michigan
 7 Alabama 77-55 2 Arizona
-1 UNLV 69-67 12 Ball State
+1 UNLV 69-67 12 Ball St
 11 Loyola Marymount 62-60 7 Alabama
 1 UNLV 131-101 11 Loyola Marymount
 1 UNLV 90-81 4 Georgia Tech
@@ -385,59 +385,59 @@
 1991
 1 UNC 101-66 16 Northeastern
 8 Princeton 48-50 9 Villanova
-5 Mississippi State 56-76 12 Eastern Michigan
-4 UCLA 69-74 13 Penn State
-6 NC State 114-85 11 Southern Miss
-3 Oklahoma State 67-54 14 New Mexico
+5 Mississippi St 56-76 12 E Mich
+4 UCLA 69-74 13 Penn St
+6 NC St 114-85 11 Southern Miss
+3 Oklahoma St 67-54 14 New Mexico
 7 Purdue 63-80 10 Temple
 2 Syracuse 69-73 15 Richmond
 1 UNC 84-69 9 Villanova
-12 Eastern Michigan 71-68 13 Penn State
-6 NC State 64-73 3 Oklahoma State
+12 E Mich 71-68 13 Penn St
+6 NC St 64-73 3 Oklahoma St
 10 Temple 77-64 15 Richmond
-1 UNC 93-67 12 Eastern Michigan
-3 Oklahoma State 63-72 10 Temple
+1 UNC 93-67 12 E Mich
+3 Oklahoma St 63-72 10 Temple
 1 UNC 75-72 10 Temple
-1 Ohio State 97-86 16 Towson
+1 Ohio St 97-86 16 Towson
 8 Georgia Tech 87-70 9 DePaul
 5 Texas 73-65 12 St. Peter's
-4 St. John's (NY) 75-68 13 Northern Illinois
+4 St. Johns 75-68 13 NIU
 6 LSU 62-79 11 UConn
 3 Nebraska 84-89 14 Xavier
 7 Iowa 76-73 10 ETSU
-2 Duke 102-73 15 Louisiana-Monroe
-1 Ohio State 65-61 8 Georgia Tech
-5 Texas 76-84 4 St. John's (NY)
+2 Duke 102-73 15 LA Monroe
+1 Ohio St 65-61 8 Georgia Tech
+5 Texas 76-84 4 St. Johns
 11 UConn 66-50 14 Xavier
 7 Iowa 70-85 2 Duke
-1 Ohio State 74-91 4 St. John's (NY)
+1 Ohio St 74-91 4 St. Johns
 11 UConn 67-81 2 Duke
-4 St. John's (NY) 61-78 2 Duke
-1 Arkansas 117-76 16 Georgia State
-8 Arizona State 79-76 9 Rutgers
-5 Wake Forest 71-65 12 Louisiana Tech
-4 Alabama 89-79 13 Murray State
+4 St. Johns 61-78 2 Duke
+1 Arkansas 117-76 16 Georgia St
+8 Arizona St 79-76 9 Rutgers
+5 Wake Forest 71-65 12 LA Tech
+4 Alabama 89-79 13 Murray St
 6 Pitt 76-68 11 Georgia
 3 Kansas 55-49 14 New Orleans
-7 Florida State 75-72 10 USC
-2 Indiana 79-69 15 Coastal Carolina
-1 Arkansas 97-90 8 Arizona State
+7 Florida St 75-72 10 USC
+2 Indiana 79-69 15 CCU
+1 Arkansas 97-90 8 Arizona St
 5 Wake Forest 88-96 4 Alabama
 6 Pitt 66-77 3 Kansas
-7 Florida State 60-82 2 Indiana
+7 Florida St 60-82 2 Indiana
 1 Arkansas 93-70 4 Alabama
 3 Kansas 83-65 2 Indiana
 1 Arkansas 81-93 3 Kansas
 1 UNLV 99-65 16 Montana
 8 Georgetown 70-60 9 Vanderbilt
-5 Michigan State 60-58 12 Green Bay
-4 Utah 82-72 13 South Alabama
-6 New Mexico State 56-64 11 Creighton
+5 Michigan St 60-58 12 Green Bay
+4 Utah 82-72 13 S Alabama
+6 New Mexico St 56-64 11 Creighton
 3 Seton Hall 71-51 14 Pepperdine
 7 Virginia 48-61 10 BYU
-2 Arizona 93-80 15 Saint Francis (PA)
+2 Arizona 93-80 15 St. Francis PA
 1 UNLV 62-54 8 Georgetown
-5 Michigan State 84-85 4 Utah
+5 Michigan St 84-85 4 Utah
 11 Creighton 69-81 3 Seton Hall
 10 BYU 61-76 2 Arizona
 1 UNLV 83-66 4 Utah
@@ -453,89 +453,89 @@
 4 Seton Hall 78-76 13 La Salle
 6 Syracuse 51-43 11 Princeton
 3 UMass 85-58 14 Fordham
-7 Charlotte 74-76 10 Iowa State
+7 Charlotte 74-76 10 Iowa St
 2 Kentucky 88-69 15 Old Dominion
 1 Duke 75-62 9 Iowa
 5 Missouri 71-88 4 Seton Hall
 6 Syracuse 71-77 3 UMass
-10 Iowa State 98-106 2 Kentucky
+10 Iowa St 98-106 2 Kentucky
 1 Duke 81-69 4 Seton Hall
 3 UMass 77-87 2 Kentucky
 1 Duke 104-103 2 Kentucky
 1 Kansas 100-67 16 Howard
 8 Evansville 50-55 9 UTEP
-5 Michigan State 61-54 12 Missouri State
+5 Michigan St 61-54 12 Missouri St
 4 Cincinnati 85-47 13 Delaware
 6 Memphis 80-70 11 Pepperdine
-3 Arkansas 80-69 14 Murray State
+3 Arkansas 80-69 14 Murray St
 7 Georgia Tech 65-60 10 Houston
-2 USC 84-54 15 Louisiana-Monroe
+2 USC 84-54 15 LA Monroe
 1 Kansas 60-66 9 UTEP
-5 Michigan State 65-77 4 Cincinnati
+5 Michigan St 65-77 4 Cincinnati
 6 Memphis 82-80 3 Arkansas
 7 Georgia Tech 79-78 2 USC
 9 UTEP 67-69 4 Cincinnati
 6 Memphis 83-79 7 Georgia Tech
 4 Cincinnati 88-57 6 Memphis
-1 Ohio State 83-56 16 Mississippi Valley State
+1 Ohio St 83-56 16 MVSU
 8 Nebraska 65-86 9 UConn
 5 Alabama 80-75 12 Stanford
-4 UNC 68-63 13 Miami (OH)
+4 UNC 68-63 13 Miami OH
 6 Michigan 73-66 11 Temple
 3 Arizona 80-87 14 ETSU
-7 St. John's (NY) 57-61 10 Tulane
-2 Oklahoma State 100-73 15 Georgia Southern
-1 Ohio State 78-55 9 UConn
+7 St. Johns 57-61 10 Tulane
+2 Oklahoma St 100-73 15 Georgia So
+1 Ohio St 78-55 9 UConn
 5 Alabama 55-64 4 UNC
 6 Michigan 102-90 14 ETSU
-10 Tulane 71-87 2 Oklahoma State
-1 Ohio State 80-73 4 UNC
-6 Michigan 75-72 2 Oklahoma State
-1 Ohio State 71-75 6 Michigan
+10 Tulane 71-87 2 Oklahoma St
+1 Ohio St 80-73 4 UNC
+6 Michigan 75-72 2 Oklahoma St
+1 Ohio St 71-75 6 Michigan
 1 UCLA 73-53 16 Robert Morris
 8 Louisville 81-58 9 Wake Forest
-5 DePaul 73-81 12 New Mexico State
+5 DePaul 73-81 12 New Mexico St
 4 Oklahoma 83-87 13 Louisiana
-6 Georgetown 75-60 11 South Florida
-3 Florida State 78-68 14 Montana
+6 Georgetown 75-60 11 USF
+3 Florida St 78-68 14 Montana
 7 LSU 94-83 10 BYU
-2 Indiana 94-55 15 Eastern Illinois
+2 Indiana 94-55 15 EIU
 1 UCLA 85-69 8 Louisville
-12 New Mexico State 81-73 13 Louisiana
-6 Georgetown 68-78 3 Florida State
+12 New Mexico St 81-73 13 Louisiana
+6 Georgetown 68-78 3 Florida St
 7 LSU 79-89 2 Indiana
-1 UCLA 85-78 12 New Mexico State
-3 Florida State 74-85 2 Indiana
+1 UCLA 85-78 12 New Mexico St
+3 Florida St 74-85 2 Indiana
 1 UCLA 79-106 2 Indiana
 1 Duke 81-78 2 Indiana
 4 Cincinnati 72-76 6 Michigan
 1 Duke 71-51 6 Michigan
 1993
-1 UNC 85-65 16 East Carolina
+1 UNC 85-65 16 ECU
 8 Rhode Island 74-68 9 Purdue
-5 St. John's (NY) 85-67 12 Texas Tech
+5 St. Johns 85-67 12 Texas Tech
 4 Arkansas 94-64 13 Holy Cross
 6 Virginia 78-66 11 Manhattan
 3 UMass 54-50 14 Penn
-7 New Mexico State 93-79 10 Nebraska
-2 Cincinnati 93-66 15 Coppin State
+7 New Mexico St 93-79 10 Nebraska
+2 Cincinnati 93-66 15 Coppin St
 1 UNC 112-67 8 Rhode Island
-5 St. John's (NY) 74-80 4 Arkansas
+5 St. Johns 74-80 4 Arkansas
 6 Virginia 71-56 3 UMass
-7 New Mexico State 55-92 2 Cincinnati
+7 New Mexico St 55-92 2 Cincinnati
 1 UNC 80-74 4 Arkansas
 6 Virginia 54-71 2 Cincinnati
 1 UNC 75-68 2 Cincinnati
-1 Indiana 97-54 16 Wright State
+1 Indiana 97-54 16 Wright St
 8 New Orleans 55-73 9 Xavier
-5 Oklahoma State 74-62 12 Marquette
+5 Oklahoma St 74-62 12 Marquette
 4 Louisville 76-70 13 Delaware
 6 California 66-64 11 LSU
-3 Duke 105-70 14 Southern Illinois
+3 Duke 105-70 14 SIU
 7 BYU 80-71 10 SMU
-2 Kansas 94-72 15 Ball State
+2 Kansas 94-72 15 Ball St
 1 Indiana 73-70 9 Xavier
-5 Oklahoma State 63-78 4 Louisville
+5 Oklahoma St 63-78 4 Louisville
 6 California 82-77 3 Duke
 7 BYU 76-90 2 Kansas
 1 Indiana 82-69 4 Louisville
@@ -544,31 +544,31 @@
 1 Kentucky 96-52 16 Rider
 8 Utah 86-65 9 Pitt
 5 Wake Forest 81-58 12 Chattanooga
-4 Iowa 82-69 13 Louisiana-Monroe
-6 Kansas State 53-55 11 Tulane
-3 Florida State 82-70 14 Evansville
-7 Western Kentucky 55-52 10 Memphis
-2 Seton Hall 81-59 15 Tennessee State
+4 Iowa 82-69 13 LA Monroe
+6 Kansas St 53-55 11 Tulane
+3 Florida St 82-70 14 Evansville
+7 WKU 55-52 10 Memphis
+2 Seton Hall 81-59 15 Tennessee St
 1 Kentucky 83-62 8 Utah
 5 Wake Forest 84-78 4 Iowa
-11 Tulane 63-94 3 Florida State
-7 Western Kentucky 72-68 2 Seton Hall
+11 Tulane 63-94 3 Florida St
+7 WKU 72-68 2 Seton Hall
 1 Kentucky 103-69 5 Wake Forest
-3 Florida State 81-78 7 Western Kentucky
-1 Kentucky 106-81 3 Florida State
-1 Michigan 84-53 16 Coastal Carolina
-8 Iowa State 70-81 9 UCLA
-5 New Mexico 68-82 12 George Washington
+3 Florida St 81-78 7 WKU
+1 Kentucky 106-81 3 Florida St
+1 Michigan 84-53 16 CCU
+8 Iowa St 70-81 9 UCLA
+5 New Mexico 68-82 12 GW
 4 Georgia Tech 78-93 13 Southern
-6 Illinois 75-72 11 Long Beach State
-3 Vanderbilt 92-72 14 Boise State
+6 Illinois 75-72 11 Long Beach St
+3 Vanderbilt 92-72 14 Boise St
 7 Temple 75-61 10 Missouri
 2 Arizona 61-64 15 Santa Clara
 1 Michigan 86-84 9 UCLA
-12 George Washington 90-80 13 Southern
+12 GW 90-80 13 Southern
 6 Illinois 68-85 3 Vanderbilt
 7 Temple 68-57 15 Santa Clara
-1 Michigan 72-64 12 George Washington
+1 Michigan 72-64 12 GW
 3 Vanderbilt 59-67 7 Temple
 1 Michigan 77-72 7 Temple
 1 UNC 78-68 2 Kansas
@@ -576,30 +576,30 @@
 1 UNC 77-71 1 Michigan
 1994
 1 UNC 71-51 16 Liberty
-8 Washington State 64-67 9 Boston College
+8 Washington St 64-67 9 Boston College
 5 Indiana 84-72 12 Ohio
 4 Temple 61-39 13 Drexel
 6 Nebraska 80-90 11 Penn
-3 Florida 64-62 14 James Madison
-7 UAB 46-51 10 George Washington
+3 Florida 64-62 14 JMU
+7 UAB 46-51 10 GW
 2 UConn 64-46 15 Rider
 1 UNC 72-75 9 Boston College
 5 Indiana 67-58 4 Temple
 11 Penn 58-70 3 Florida
-10 George Washington 63-75 2 UConn
+10 GW 63-75 2 UConn
 9 Boston College 77-68 5 Indiana
 3 Florida 69-60 2 UConn
 9 Boston College 66-74 3 Florida
-1 Arkansas 94-79 16 North Carolina A&T
+1 Arkansas 94-79 16 NC A&T
 8 Illinois 77-84 9 Georgetown
 5 UCLA 102-112 12 Tulsa
-4 Oklahoma State 65-55 13 New Mexico State
-6 Texas 91-77 11 Western Kentucky
+4 Oklahoma St 65-55 13 New Mexico St
+6 Texas 91-77 11 WKU
 3 Michigan 78-74 14 Pepperdine
-7 Saint Louis 66-74 10 Maryland
-2 UMass 78-60 15 Texas State
+7 St. Louis 66-74 10 Maryland
+2 UMass 78-60 15 Texas St
 1 Arkansas 85-73 9 Georgetown
-12 Tulsa 82-80 4 Oklahoma State
+12 Tulsa 82-80 4 Oklahoma St
 6 Texas 79-84 3 Michigan
 10 Maryland 95-87 2 UMass
 1 Arkansas 103-84 12 Tulsa
@@ -607,16 +607,16 @@
 1 Arkansas 76-68 3 Michigan
 1 Purdue 98-67 16 UCF
 8 Providence 70-76 9 Alabama
-5 Wake Forest 68-58 12 College of Charleston
+5 Wake Forest 68-58 12 Charleston
 4 Kansas 102-73 13 Chattanooga
 6 Marquette 81-59 11 Louisiana
-3 Kentucky 83-70 14 Tennessee State
-7 Michigan State 84-73 10 Seton Hall
-2 Duke 82-70 15 Texas Southern
+3 Kentucky 83-70 14 Tennessee St
+7 Michigan St 84-73 10 Seton Hall
+2 Duke 82-70 15 Texas So
 1 Purdue 83-73 9 Alabama
 5 Wake Forest 58-69 4 Kansas
 6 Marquette 75-63 3 Kentucky
-7 Michigan State 74-85 2 Duke
+7 Michigan St 74-85 2 Duke
 1 Purdue 83-78 4 Kansas
 6 Marquette 49-59 2 Duke
 1 Purdue 60-69 2 Duke
@@ -624,10 +624,10 @@
 8 Cincinnati 72-80 9 Wisconsin
 5 California 57-61 12 Green Bay
 4 Syracuse 92-78 13 Hawaii
-6 Minnesota 74-60 11 Southern Illinois
-3 Louisville 67-58 14 Boise State
+6 Minnesota 74-60 11 SIU
+3 Louisville 67-58 14 Boise St
 7 Virginia 57-54 10 New Mexico
-2 Arizona 81-55 15 Loyola (MD)
+2 Arizona 81-55 15 Loyola MD
 1 Missouri 109-96 9 Wisconsin
 12 Green Bay 59-64 4 Syracuse
 6 Minnesota 55-60 3 Louisville
@@ -639,78 +639,78 @@
 3 Florida 65-70 2 Duke
 1 Arkansas 76-72 2 Duke
 1995
-1 Wake Forest 79-47 16 North Carolina A&T
-8 Minnesota 61-64 9 Saint Louis
+1 Wake Forest 79-47 16 NC A&T
+8 Minnesota 61-64 9 St. Louis
 5 Alabama 91-85 12 Penn
-4 Oklahoma State 73-49 13 Drexel
+4 Oklahoma St 73-49 13 Drexel
 6 Tulsa 68-62 11 Illinois
 3 Villanova 81-89 14 Old Dominion
 7 Charlotte 68-70 10 Stanford
 2 UMass 68-51 15 St. Peter's
-1 Wake Forest 64-59 9 Saint Louis
-5 Alabama 52-66 4 Oklahoma State
+1 Wake Forest 64-59 9 St. Louis
+5 Alabama 52-66 4 Oklahoma St
 6 Tulsa 64-52 14 Old Dominion
 10 Stanford 53-75 2 UMass
-1 Wake Forest 66-71 4 Oklahoma State
+1 Wake Forest 66-71 4 Oklahoma St
 6 Tulsa 51-76 2 UMass
-4 Oklahoma State 68-54 2 UMass
+4 Oklahoma St 68-54 2 UMass
 1 Kansas 82-68 16 Colgate
-8 Western Kentucky 82-76 9 Michigan
-5 Arizona 62-71 12 Miami (OH)
-4 Virginia 96-72 13 Nicholls State
+8 WKU 82-76 9 Michigan
+5 Arizona 62-71 12 Miami OH
+4 Virginia 96-72 13 Nicholls St
 6 Memphis 77-56 11 Louisville
 3 Purdue 49-48 14 Green Bay
-7 Syracuse 96-92 10 Southern Illinois
-2 Arkansas 79-78 15 Texas Southern
-1 Kansas 75-70 8 Western Kentucky
-12 Miami (OH) 54-60 4 Virginia
+7 Syracuse 96-92 10 SIU
+2 Arkansas 79-78 15 Texas So
+1 Kansas 75-70 8 WKU
+12 Miami OH 54-60 4 Virginia
 6 Memphis 75-73 3 Purdue
 7 Syracuse 94-96 2 Arkansas
 1 Kansas 58-67 4 Virginia
 6 Memphis 91-96 2 Arkansas
 4 Virginia 61-68 2 Arkansas
-1 Kentucky 113-67 16 Mount St. Mary's
+1 Kentucky 113-67 16 MSM
 8 BYU 70-76 9 Tulane
-5 Arizona State 81-66 12 Ball State
+5 Arizona St 81-66 12 Ball St
 4 Oklahoma 67-77 13 Manhattan
 6 Georgetown 68-63 11 Xavier
-3 Michigan State 72-79 14 Weber State
-7 Iowa State 64-61 10 Florida
-2 UNC 80-70 15 Murray State
+3 Michigan St 72-79 14 Weber St
+7 Iowa St 64-61 10 Florida
+2 UNC 80-70 15 Murray St
 1 Kentucky 82-60 9 Tulane
-5 Arizona State 64-54 13 Manhattan
-6 Georgetown 53-51 14 Weber State
-7 Iowa State 51-73 2 UNC
-1 Kentucky 97-73 5 Arizona State
+5 Arizona St 64-54 13 Manhattan
+6 Georgetown 53-51 14 Weber St
+7 Iowa St 51-73 2 UNC
+1 Kentucky 97-73 5 Arizona St
 6 Georgetown 64-74 2 UNC
 1 Kentucky 61-74 2 UNC
-1 UCLA 92-56 16 Florida International
+1 UCLA 92-56 16 FIU
 8 Missouri 65-60 9 Indiana
-5 Mississippi State 75-67 12 Santa Clara
-4 Utah 76-64 13 Long Beach State
+5 Mississippi St 75-67 12 Santa Clara
+4 Utah 76-64 13 Long Beach St
 6 Oregon 73-90 11 Texas
 3 Maryland 87-63 14 Gonzaga
 7 Cincinnati 77-71 10 Temple
 2 UConn 100-71 15 Chattanooga
 1 UCLA 75-74 8 Missouri
-5 Mississippi State 78-64 4 Utah
+5 Mississippi St 78-64 4 Utah
 11 Texas 68-82 3 Maryland
 7 Cincinnati 91-96 2 UConn
-1 UCLA 86-67 5 Mississippi State
+1 UCLA 86-67 5 Mississippi St
 3 Maryland 89-99 2 UConn
 1 UCLA 102-96 2 UConn
-1 UCLA 74-61 4 Oklahoma State
+1 UCLA 74-61 4 Oklahoma St
 2 UNC 68-75 2 Arkansas
 1 UCLA 89-78 2 Arkansas
 1996
 1 UMass 92-70 16 UCF
 8 Bradley 58-66 9 Stanford
-5 Penn State 80-86 12 Arkansas
+5 Penn St 80-86 12 Arkansas
 4 Marquette 68-44 13 Monmouth
 6 UNC 83-62 11 New Orleans
-3 Texas Tech 74-73 14 Northern Illinois
-7 New Mexico 69-48 10 Kansas State
-2 Georgetown 93-56 15 Mississippi Valley State
+3 Texas Tech 74-73 14 NIU
+7 New Mexico 69-48 10 Kansas St
+2 Georgetown 93-56 15 MVSU
 1 UMass 79-74 9 Stanford
 12 Arkansas 65-56 4 Marquette
 6 UNC 73-92 3 Texas Tech
@@ -718,44 +718,44 @@
 1 UMass 79-63 12 Arkansas
 3 Texas Tech 90-98 2 Georgetown
 1 UMass 86-62 2 Georgetown
-1 Kentucky 110-72 16 San Jose State
+1 Kentucky 110-72 16 San Jose St
 8 Green Bay 48-61 9 Virginia Tech
-5 Iowa State 74-64 12 California
+5 Iowa St 74-64 12 California
 4 Utah 72-43 13 Canisius
 6 Louisville 82-80 11 Tulsa
 3 Villanova 92-58 14 Portland
 7 Michigan 76-80 10 Texas
-2 Wake Forest 62-50 15 Louisiana-Monroe
+2 Wake Forest 62-50 15 LA Monroe
 1 Kentucky 84-60 9 Virginia Tech
-5 Iowa State 67-73 4 Utah
+5 Iowa St 67-73 4 Utah
 6 Louisville 68-64 3 Villanova
 10 Texas 62-65 2 Wake Forest
 1 Kentucky 101-70 4 Utah
 6 Louisville 59-60 2 Wake Forest
 1 Kentucky 83-63 2 Wake Forest
 1 UConn 68-59 16 Colgate
-8 Duke 60-75 9 Eastern Michigan
-5 Mississippi State 58-51 12 VCU
+8 Duke 60-75 9 E Mich
+5 Mississippi St 58-51 12 VCU
 4 UCLA 41-43 13 Princeton
 6 Indiana 51-64 11 Boston College
 3 Georgia Tech 90-79 14 Austin Peay
 7 Temple 61-43 10 Oklahoma
-2 Cincinnati 66-61 15 UNC Greensboro
-1 UConn 95-81 9 Eastern Michigan
-5 Mississippi State 63-41 13 Princeton
+2 Cincinnati 66-61 15 UNCG
+1 UConn 95-81 9 E Mich
+5 Mississippi St 63-41 13 Princeton
 11 Boston College 89-103 3 Georgia Tech
 7 Temple 65-78 2 Cincinnati
-1 UConn 55-60 5 Mississippi State
+1 UConn 55-60 5 Mississippi St
 3 Georgia Tech 70-87 2 Cincinnati
-5 Mississippi State 73-63 2 Cincinnati
-1 Purdue 73-71 16 Western Carolina
+5 Mississippi St 73-63 2 Cincinnati
+1 Purdue 73-71 16 WCU
 8 Georgia 81-74 9 Clemson
 5 Memphis 63-75 12 Drexel
-4 Syracuse 88-55 13 Montana State
-6 Iowa 81-79 11 George Washington
+4 Syracuse 88-55 13 Montana St
+6 Iowa 81-79 11 GW
 3 Arizona 90-51 14 Valparaiso
 7 Maryland 79-91 10 Santa Clara
-2 Kansas 92-54 15 South Carolina State
+2 Kansas 92-54 15 SC St
 1 Purdue 69-76 8 Georgia
 12 Drexel 58-69 4 Syracuse
 6 Iowa 73-87 3 Arizona
@@ -764,7 +764,7 @@
 3 Arizona 80-83 2 Kansas
 4 Syracuse 60-57 2 Kansas
 1 Kentucky 81-74 1 UMass
-5 Mississippi State 69-77 4 Syracuse
+5 Mississippi St 69-77 4 Syracuse
 1 Kentucky 76-67 4 Syracuse
 1997
 1 UNC 82-74 16 Fairfield
@@ -774,39 +774,39 @@
 6 Louisville 65-57 11 UMass
 3 New Mexico 59-55 14 Old Dominion
 7 Wisconsin 58-71 10 Texas
-2 South Carolina 65-78 15 Coppin State
+2 South Carolina 65-78 15 Coppin St
 1 UNC 73-56 9 Colorado
 5 California 75-68 4 Villanova
 6 Louisville 64-63 3 New Mexico
-10 Texas 82-81 15 Coppin State
+10 Texas 82-81 15 Coppin St
 1 UNC 63-57 5 California
 6 Louisville 78-63 10 Texas
 1 UNC 97-74 6 Louisville
-1 Minnesota 78-46 16 Texas State
+1 Minnesota 78-46 16 Texas St
 8 Ole Miss 40-62 9 Temple
-5 Tulsa 81-52 12 Boston University
-4 Clemson 68-56 13 Miami (OH)
-6 Iowa State 69-57 11 Illinois State
+5 Tulsa 81-52 12 Boston
+4 Clemson 68-56 13 Miami OH
+6 Iowa St 69-57 11 Illinois St
 3 Cincinnati 86-69 14 Butler
 7 Xavier 80-68 10 Vanderbilt
-2 UCLA 109-75 15 Charleston Southern
+2 UCLA 109-75 15 Charleston So
 1 Minnesota 76-57 9 Temple
 5 Tulsa 59-65 4 Clemson
-6 Iowa State 67-66 3 Cincinnati
+6 Iowa St 67-66 3 Cincinnati
 7 Xavier 83-96 2 UCLA
 1 Minnesota 90-84 4 Clemson
-6 Iowa State 73-74 2 UCLA
+6 Iowa St 73-74 2 UCLA
 1 Minnesota 80-72 2 UCLA
-1 Kansas 78-64 16 Jackson State
+1 Kansas 78-64 16 Jackson St
 8 Purdue 83-76 9 Rhode Island
-5 Maryland 66-75 12 College of Charleston
-4 Arizona 65-57 13 South Alabama
+5 Maryland 66-75 12 Charleston
+4 Arizona 65-57 13 S Alabama
 6 Illinois 90-77 11 USC
 3 Georgia 70-73 14 Chattanooga
 7 Marquette 59-81 10 Providence
-2 Duke 71-68 15 Murray State
+2 Duke 71-68 15 Murray St
 1 Kansas 75-61 8 Purdue
-12 College of Charleston 69-73 4 Arizona
+12 Charleston 69-73 4 Arizona
 6 Illinois 63-75 14 Chattanooga
 10 Providence 98-87 2 Duke
 1 Kansas 82-85 4 Arizona
@@ -834,57 +834,57 @@
 1 UNC 88-52 16 Navy
 8 Charlotte 77-62 9 UIC
 5 Princeton 69-57 12 UNLV
-4 Michigan State 83-71 13 Eastern Michigan
+4 Michigan St 83-71 13 E Mich
 6 Xavier 68-69 11 Washington
 3 South Carolina 61-62 14 Richmond
 7 Indiana 94-87 10 Oklahoma
 2 UConn 93-85 15 FDU
 1 UNC 93-83 8 Charlotte
-5 Princeton 56-63 4 Michigan State
+5 Princeton 56-63 4 Michigan St
 11 Washington 81-66 14 Richmond
 7 Indiana 68-78 2 UConn
-1 UNC 73-58 4 Michigan State
+1 UNC 73-58 4 Michigan St
 11 Washington 74-75 2 UConn
 1 UNC 75-64 2 UConn
 1 Kansas 110-52 16 Prairie View
-8 Rhode Island 97-74 9 Murray State
-5 TCU 87-96 12 Florida State
+8 Rhode Island 97-74 9 Murray St
+5 TCU 87-96 12 Florida St
 4 Ole Miss 69-70 13 Valparaiso
-6 Clemson 72-75 11 Western Michigan
-3 Stanford 67-57 14 College of Charleston
-7 St. John's (NY) 64-66 10 Detroit Mercy
+6 Clemson 72-75 11 W Mich
+3 Stanford 67-57 14 Charleston
+7 St. Johns 64-66 10 Detroit
 2 Purdue 95-56 15 Delaware
 1 Kansas 75-80 8 Rhode Island
-12 Florida State 77-83 13 Valparaiso
-11 Western Michigan 65-83 3 Stanford
-10 Detroit Mercy 65-80 2 Purdue
+12 Florida St 77-83 13 Valparaiso
+11 W Mich 65-83 3 Stanford
+10 Detroit 65-80 2 Purdue
 8 Rhode Island 74-68 13 Valparaiso
 3 Stanford 67-59 2 Purdue
 8 Rhode Island 77-79 3 Stanford
 1 Duke 99-63 16 Radford
-8 Oklahoma State 74-59 9 George Washington
+8 Oklahoma St 74-59 9 GW
 5 Syracuse 63-61 12 Iona
 4 New Mexico 79-62 13 Butler
-6 UCLA 65-62 11 Miami (FL)
+6 UCLA 65-62 11 Miami
 3 Michigan 80-61 14 Davidson
-7 UMass 46-51 10 Saint Louis
-2 Kentucky 82-67 15 South Carolina State
-1 Duke 79-73 8 Oklahoma State
+7 UMass 46-51 10 St. Louis
+2 Kentucky 82-67 15 SC St
+1 Duke 79-73 8 Oklahoma St
 5 Syracuse 56-46 4 New Mexico
 6 UCLA 85-82 3 Michigan
-10 Saint Louis 61-88 2 Kentucky
+10 St. Louis 61-88 2 Kentucky
 1 Duke 80-67 5 Syracuse
 6 UCLA 68-94 2 Kentucky
 1 Duke 84-86 2 Kentucky
-1 Arizona 99-60 16 Nicholls State
-8 Tennessee 81-82 9 Illinois State
-5 Illinois 64-51 12 South Alabama
-4 Maryland 82-68 13 Utah State
+1 Arizona 99-60 16 Nicholls St
+8 Tennessee 81-82 9 Illinois St
+5 Illinois 64-51 12 S Alabama
+4 Maryland 82-68 13 Utah St
 6 Arkansas 74-65 11 Nebraska
 3 Utah 85-68 14 San Francisco
 7 Temple 52-82 10 West Virginia
-2 Cincinnati 65-62 15 Northern Arizona
-1 Arizona 82-49 9 Illinois State
+2 Cincinnati 65-62 15 NAU
+1 Arizona 82-49 9 Illinois St
 5 Illinois 61-67 4 Maryland
 6 Arkansas 69-75 3 Utah
 10 West Virginia 75-74 2 Cincinnati
@@ -896,67 +896,67 @@
 2 Kentucky 78-69 3 Utah
 1999
 1 Duke 99-58 16 Florida A&M
-8 College of Charleston 53-62 9 Tulsa
-5 Wisconsin 32-43 12 Missouri State
+8 Charleston 53-62 9 Tulsa
+5 Wisconsin 32-43 12 Missouri St
 4 Tennessee 62-52 13 Delaware
-6 Temple 61-54 11 Kent State
-3 Cincinnati 72-48 14 George Mason
+6 Temple 61-54 11 Kent St
+3 Cincinnati 72-48 14 GMU
 7 Texas 54-58 10 Purdue
-2 Miami (FL) 75-54 15 Lafayette
+2 Miami 75-54 15 Lafayette
 1 Duke 97-56 9 Tulsa
-12 Missouri State 81-51 4 Tennessee
+12 Missouri St 81-51 4 Tennessee
 6 Temple 64-54 3 Cincinnati
-10 Purdue 73-63 2 Miami (FL)
-1 Duke 78-61 12 Missouri State
+10 Purdue 73-63 2 Miami
+1 Duke 78-61 12 Missouri St
 6 Temple 77-55 10 Purdue
 1 Duke 85-64 6 Temple
-1 Michigan State 76-53 16 Mount St. Mary's
+1 Michigan St 76-53 16 MSM
 8 Villanova 70-72 9 Ole Miss
 5 Charlotte 81-70 12 Rhode Island
 4 Arizona 60-61 13 Oklahoma
 6 Kansas 95-74 11 Evansville
-3 Kentucky 82-60 14 New Mexico State
-7 Washington 58-59 10 Miami (OH)
-2 Utah 80-58 15 Arkansas State
-1 Michigan State 74-66 9 Ole Miss
+3 Kentucky 82-60 14 New Mexico St
+7 Washington 58-59 10 Miami OH
+2 Utah 80-58 15 Arkansas St
+1 Michigan St 74-66 9 Ole Miss
 5 Charlotte 72-85 13 Oklahoma
 6 Kansas 88-92 3 Kentucky
-10 Miami (OH) 66-58 2 Utah
-1 Michigan State 54-46 13 Oklahoma
-3 Kentucky 58-43 10 Miami (OH)
-1 Michigan State 73-66 3 Kentucky
+10 Miami OH 66-58 2 Utah
+1 Michigan St 54-46 13 Oklahoma
+3 Kentucky 58-43 10 Miami OH
+1 Michigan St 73-66 3 Kentucky
 1 Auburn 80-41 16 Winthrop
-8 Syracuse 61-69 9 Oklahoma State
-5 UCLA 53-56 12 Detroit Mercy
-4 Ohio State 72-58 13 Murray State
-6 Indiana 108-88 11 George Washington
-3 St. John's (NY) 69-43 14 Samford
+8 Syracuse 61-69 9 Oklahoma St
+5 UCLA 53-56 12 Detroit
+4 Ohio St 72-58 13 Murray St
+6 Indiana 108-88 11 GW
+3 St. Johns 69-43 14 Samford
 7 Louisville 58-62 10 Creighton
 2 Maryland 82-60 15 Valparaiso
-1 Auburn 81-74 9 Oklahoma State
-12 Detroit Mercy 44-75 4 Ohio State
-6 Indiana 61-86 3 St. John's (NY)
+1 Auburn 81-74 9 Oklahoma St
+12 Detroit 44-75 4 Ohio St
+6 Indiana 61-86 3 St. Johns
 10 Creighton 63-75 2 Maryland
-1 Auburn 64-72 4 Ohio State
-3 St. John's (NY) 76-62 2 Maryland
-4 Ohio State 77-74 3 St. John's (NY)
+1 Auburn 64-72 4 Ohio St
+3 St. Johns 76-62 2 Maryland
+4 Ohio St 77-74 3 St. Johns
 1 UConn 91-66 16 UTSA
 8 Missouri 59-61 9 New Mexico
 5 Iowa 77-64 12 UAB
 4 Arkansas 94-80 13 Siena
 6 Florida 75-61 11 Penn
-3 UNC 74-76 14 Weber State
+3 UNC 74-76 14 Weber St
 7 Minnesota 63-75 10 Gonzaga
-2 Stanford 69-57 15 Alcorn State
+2 Stanford 69-57 15 Alcorn St
 1 UConn 78-56 9 New Mexico
 5 Iowa 82-72 4 Arkansas
-6 Florida 82-74 14 Weber State
+6 Florida 82-74 14 Weber St
 10 Gonzaga 82-74 2 Stanford
 1 UConn 78-68 5 Iowa
 6 Florida 72-73 10 Gonzaga
 1 UConn 67-62 10 Gonzaga
-1 UConn 64-58 4 Ohio State
-1 Michigan State 62-68 1 Duke
+1 UConn 64-58 4 Ohio St
+1 Michigan St 62-68 1 Duke
 1 UConn 77-74 1 Duke
 2000
 1 Duke 82-55 16 Lamar
@@ -964,88 +964,88 @@
 5 Florida 69-68 12 Butler
 4 Illinois 68-58 13 Penn
 6 Indiana 57-77 11 Pepperdine
-3 Oklahoma State 86-66 14 Hofstra
+3 Oklahoma St 86-66 14 Hofstra
 7 Oregon 71-72 10 Seton Hall
 2 Temple 73-47 15 Lafayette
 1 Duke 69-64 8 Kansas
 5 Florida 93-76 4 Illinois
-11 Pepperdine 67-75 3 Oklahoma State
+11 Pepperdine 67-75 3 Oklahoma St
 10 Seton Hall 67-65 2 Temple
 1 Duke 78-87 5 Florida
-3 Oklahoma State 68-66 10 Seton Hall
-5 Florida 77-65 3 Oklahoma State
-1 Michigan State 65-38 16 Valparaiso
-8 Utah 48-45 9 Saint Louis
-5 Kentucky 85-80 12 St. Bonaventure
+3 Oklahoma St 68-66 10 Seton Hall
+5 Florida 77-65 3 Oklahoma St
+1 Michigan St 65-38 16 Valparaiso
+8 Utah 48-45 9 St. Louis
+5 Kentucky 85-80 12 St. Bonnie
 4 Syracuse 79-65 13 Samford
-6 UCLA 65-57 11 Ball State
+6 UCLA 65-57 11 Ball St
 3 Maryland 74-59 14 Iona
 7 Auburn 72-69 10 Creighton
-2 Iowa State 88-78 15 Central Connecticut
-1 Michigan State 73-61 8 Utah
+2 Iowa St 88-78 15 CCSU
+1 Michigan St 73-61 8 Utah
 5 Kentucky 50-52 4 Syracuse
 6 UCLA 105-70 3 Maryland
-7 Auburn 60-79 2 Iowa State
-1 Michigan State 75-58 4 Syracuse
-6 UCLA 56-80 2 Iowa State
-1 Michigan State 75-64 2 Iowa State
-1 Stanford 84-65 16 South Carolina State
+7 Auburn 60-79 2 Iowa St
+1 Michigan St 75-58 4 Syracuse
+6 UCLA 56-80 2 Iowa St
+1 Michigan St 75-64 2 Iowa St
+1 Stanford 84-65 16 SC St
 8 UNC 84-70 9 Missouri
-5 UConn 75-67 12 Utah State
+5 UConn 75-67 12 Utah St
 4 Tennessee 63-58 13 Louisiana
-6 Miami (FL) 75-71 11 Arkansas
-3 Ohio State 87-61 14 Appalachian State
+6 Miami 75-71 11 Arkansas
+3 Ohio St 87-61 14 App St
 7 Tulsa 89-62 10 UNLV
-2 Cincinnati 64-47 15 UNC Wilmington
+2 Cincinnati 64-47 15 UNCW
 1 Stanford 53-60 8 UNC
 5 UConn 51-65 4 Tennessee
-6 Miami (FL) 75-62 3 Ohio State
+6 Miami 75-62 3 Ohio St
 7 Tulsa 69-61 2 Cincinnati
 8 UNC 74-69 4 Tennessee
-6 Miami (FL) 71-80 7 Tulsa
+6 Miami 71-80 7 Tulsa
 8 UNC 59-55 7 Tulsa
-1 Arizona 71-47 16 Jackson State
-8 Wisconsin 66-56 9 Fresno State
-5 Texas 77-61 12 Indiana State
-4 LSU 64-61 13 Southeast Missouri State
+1 Arizona 71-47 16 Jackson St
+8 Wisconsin 66-56 9 Fresno St
+5 Texas 77-61 12 Indiana St
+4 LSU 64-61 13 SE Missouri
 6 Purdue 62-61 11 Dayton
 3 Oklahoma 74-50 14 Winthrop
 7 Louisville 66-77 10 Gonzaga
-2 St. John's (NY) 61-56 15 Northern Arizona
+2 St. Johns 61-56 15 NAU
 1 Arizona 59-66 8 Wisconsin
 5 Texas 67-72 4 LSU
 6 Purdue 66-62 3 Oklahoma
-10 Gonzaga 82-76 2 St. John's (NY)
+10 Gonzaga 82-76 2 St. Johns
 8 Wisconsin 61-48 4 LSU
 6 Purdue 75-66 10 Gonzaga
 8 Wisconsin 64-60 6 Purdue
-1 Michigan State 53-41 8 Wisconsin
+1 Michigan St 53-41 8 Wisconsin
 8 UNC 59-71 5 Florida
-1 Michigan State 89-76 5 Florida
+1 Michigan St 89-76 5 Florida
 2001
 1 Duke 95-52 16 Monmouth
 8 Georgia 68-70 9 Missouri
-5 Ohio State 68-77 12 Utah State
+5 Ohio St 68-77 12 Utah St
 4 UCLA 61-48 13 Hofstra
-6 USC 69-54 11 Oklahoma State
+6 USC 69-54 11 Oklahoma St
 3 Boston College 68-65 14 Southern Utah
 7 Iowa 69-56 10 Creighton
 2 Kentucky 72-68 15 Holy Cross
 1 Duke 94-81 9 Missouri
-12 Utah State 50-75 4 UCLA
+12 Utah St 50-75 4 UCLA
 6 USC 74-71 3 Boston College
 7 Iowa 79-92 2 Kentucky
 1 Duke 76-63 4 UCLA
 6 USC 80-76 2 Kentucky
 1 Duke 79-69 6 USC
-1 Illinois 96-54 16 Northwestern State
+1 Illinois 96-54 16 Northwestern St
 8 Tennessee 63-70 9 Charlotte
 5 Syracuse 79-69 12 Hawaii
-4 Kansas 99-75 13 Cal State Northridge
+4 Kansas 99-75 13 CS Northridge
 6 Notre Dame 83-71 11 Xavier
 3 Ole Miss 72-70 14 Iona
 7 Wake Forest 63-79 10 Butler
-2 Arizona 101-76 15 Eastern Illinois
+2 Arizona 101-76 15 EIU
 1 Illinois 79-61 9 Charlotte
 5 Syracuse 58-87 4 Kansas
 6 Notre Dame 56-59 3 Ole Miss
@@ -1053,66 +1053,66 @@
 1 Illinois 80-64 4 Kansas
 3 Ole Miss 56-66 2 Arizona
 1 Illinois 81-87 2 Arizona
-1 Michigan State 69-35 16 Alabama State
-8 California 70-82 9 Fresno State
+1 Michigan St 69-35 16 Alabama St
+8 California 70-82 9 Fresno St
 5 Virginia 85-86 12 Gonzaga
-4 Oklahoma 68-70 13 Indiana State
+4 Oklahoma 68-70 13 Indiana St
 6 Texas 65-79 11 Temple
-3 Florida 69-56 14 Western Kentucky
-7 Penn State 69-59 10 Providence
+3 Florida 69-56 14 WKU
+7 Penn St 69-59 10 Providence
 2 UNC 70-48 15 Princeton
-1 Michigan State 81-65 9 Fresno State
-12 Gonzaga 85-68 13 Indiana State
+1 Michigan St 81-65 9 Fresno St
+12 Gonzaga 85-68 13 Indiana St
 11 Temple 75-54 3 Florida
-7 Penn State 82-74 2 UNC
-1 Michigan State 77-62 12 Gonzaga
-11 Temple 84-72 7 Penn State
-1 Michigan State 69-62 11 Temple
-1 Stanford 89-60 16 UNC Greensboro
+7 Penn St 82-74 2 UNC
+1 Michigan St 77-62 12 Gonzaga
+11 Temple 84-72 7 Penn St
+1 Michigan St 69-62 11 Temple
+1 Stanford 89-60 16 UNCG
 8 Georgia Tech 62-66 9 St. Joseph's
 5 Cincinnati 84-59 12 BYU
-4 Indiana 73-77 13 Kent State
-6 Wisconsin 49-50 11 Georgia State
-3 Maryland 83-80 14 George Mason
+4 Indiana 73-77 13 Kent St
+6 Wisconsin 49-50 11 Georgia St
+3 Maryland 83-80 14 GMU
 7 Arkansas 61-63 10 Georgetown
-2 Iowa State 57-58 15 Hampton
+2 Iowa St 57-58 15 Hampton
 1 Stanford 90-83 9 St. Joseph's
-5 Cincinnati 66-43 13 Kent State
-11 Georgia State 60-79 3 Maryland
+5 Cincinnati 66-43 13 Kent St
+11 Georgia St 60-79 3 Maryland
 10 Georgetown 76-57 15 Hampton
 1 Stanford 78-65 5 Cincinnati
 3 Maryland 76-66 10 Georgetown
 1 Stanford 73-87 3 Maryland
 1 Duke 95-84 3 Maryland
-1 Michigan State 61-80 2 Arizona
+1 Michigan St 61-80 2 Arizona
 1 Duke 82-72 2 Arizona
 2002
 1 Maryland 85-70 16 Siena
-8 Wisconsin 80-70 9 St. John's (NY)
+8 Wisconsin 80-70 9 St. Johns
 5 Marquette 69-71 12 Tulsa
 4 Kentucky 83-68 13 Valparaiso
-6 Texas Tech 68-76 11 Southern Illinois
-3 Georgia 85-68 14 Murray State
-7 NC State 69-58 10 Michigan State
+6 Texas Tech 68-76 11 SIU
+3 Georgia 85-68 14 Murray St
+7 NC St 69-58 10 Michigan St
 2 UConn 78-67 15 Hampton
 1 Maryland 87-57 8 Wisconsin
 12 Tulsa 82-87 4 Kentucky
-11 Southern Illinois 77-75 3 Georgia
-7 NC State 74-77 2 UConn
+11 SIU 77-75 3 Georgia
+7 NC St 74-77 2 UConn
 1 Maryland 78-68 4 Kentucky
-11 Southern Illinois 59-71 2 UConn
+11 SIU 59-71 2 UConn
 1 Maryland 90-82 2 UConn
 1 Kansas 70-59 16 Holy Cross
-8 Stanford 84-68 9 Western Kentucky
+8 Stanford 84-68 9 WKU
 5 Florida 82-83 12 Creighton
-4 Illinois 93-64 13 San Diego State
+4 Illinois 93-64 13 San Diego St
 6 Texas 70-57 11 Boston College
-3 Mississippi State 70-58 14 McNeese State
+3 Mississippi St 70-58 14 McNeese St
 7 Wake Forest 83-74 10 Pepperdine
 2 Oregon 81-62 15 Montana
 1 Kansas 86-63 8 Stanford
 12 Creighton 60-72 4 Illinois
-6 Texas 68-64 3 Mississippi State
+6 Texas 68-64 3 Mississippi St
 7 Wake Forest 87-92 2 Oregon
 1 Kansas 73-69 4 Illinois
 6 Texas 70-72 2 Oregon
@@ -1120,28 +1120,28 @@
 1 Duke 84-37 16 Winthrop
 8 Notre Dame 82-63 9 Charlotte
 5 Indiana 75-56 12 Utah
-4 USC 89-93 13 UNC Wilmington
+4 USC 89-93 13 UNCW
 6 California 82-75 11 Penn
-3 Pitt 71-54 14 Central Connecticut
-7 Oklahoma State 61-69 10 Kent State
-2 Alabama 86-78 15 Florida Atlantic
+3 Pitt 71-54 14 CCSU
+7 Oklahoma St 61-69 10 Kent St
+2 Alabama 86-78 15 FAU
 1 Duke 84-77 8 Notre Dame
-5 Indiana 76-67 13 UNC Wilmington
+5 Indiana 76-67 13 UNCW
 6 California 50-63 3 Pitt
-10 Kent State 71-58 2 Alabama
+10 Kent St 71-58 2 Alabama
 1 Duke 73-74 5 Indiana
-3 Pitt 73-78 10 Kent State
-5 Indiana 81-69 10 Kent State
-1 Cincinnati 90-52 16 Boston University
+3 Pitt 73-78 10 Kent St
+5 Indiana 81-69 10 Kent St
+1 Cincinnati 90-52 16 Boston
 8 UCLA 80-58 9 Ole Miss
-5 Miami (FL) 80-93 12 Missouri
-4 Ohio State 69-64 13 Davidson
+5 Miami 80-93 12 Missouri
+4 Ohio St 69-64 13 Davidson
 6 Gonzaga 66-73 11 Wyoming
 3 Arizona 86-81 14 UCSB
 7 Xavier 70-58 10 Hawaii
 2 Oklahoma 71-63 15 UIC
 1 Cincinnati 101-105 8 UCLA
-12 Missouri 83-67 4 Ohio State
+12 Missouri 83-67 4 Ohio St
 11 Wyoming 60-68 3 Arizona
 7 Xavier 65-78 2 Oklahoma
 8 UCLA 73-82 12 Missouri
@@ -1151,26 +1151,26 @@
 2 Oklahoma 64-73 5 Indiana
 1 Maryland 64-52 5 Indiana
 2003
-1 Oklahoma 71-54 16 South Carolina State
-8 California 76-74 9 NC State
-5 Mississippi State 46-47 12 Butler
+1 Oklahoma 71-54 16 SC St
+8 California 76-74 9 NC St
+5 Mississippi St 46-47 12 Butler
 4 Louisville 86-64 13 Austin Peay
-6 Oklahoma State 77-63 11 Penn
+6 Oklahoma St 77-63 11 Penn
 3 Syracuse 76-65 14 Manhattan
 7 St. Joseph's 63-65 10 Auburn
 2 Wake Forest 76-73 15 ETSU
 1 Oklahoma 74-65 8 California
 12 Butler 79-71 4 Louisville
-6 Oklahoma State 56-68 3 Syracuse
+6 Oklahoma St 56-68 3 Syracuse
 10 Auburn 68-62 2 Wake Forest
 1 Oklahoma 65-54 12 Butler
 3 Syracuse 79-78 10 Auburn
 1 Oklahoma 47-63 3 Syracuse
 1 Kentucky 95-64 16 IUPUI
 8 Oregon 58-60 9 Utah
-5 Wisconsin 81-74 12 Weber State
+5 Wisconsin 81-74 12 Weber St
 4 Dayton 71-84 13 Tulsa
-6 Missouri 72-71 11 Southern Illinois
+6 Missouri 72-71 11 SIU
 3 Marquette 72-68 14 Holy Cross
 7 Indiana 67-62 10 Alabama
 2 Pitt 87-61 15 Wagner
@@ -1181,33 +1181,33 @@
 1 Kentucky 63-57 5 Wisconsin
 3 Marquette 77-74 2 Pitt
 1 Kentucky 69-83 3 Marquette
-1 Texas 82-61 16 UNC Asheville
+1 Texas 82-61 16 UNCA
 8 LSU 56-80 9 Purdue
 5 UConn 58-53 12 BYU
 4 Stanford 77-69 13 San Diego
-6 Maryland 75-73 11 UNC Wilmington
+6 Maryland 75-73 11 UNCW
 3 Xavier 71-59 14 Troy
-7 Michigan State 79-64 10 Colorado
-2 Florida 85-55 15 Sam Houston
+7 Michigan St 79-64 10 Colorado
+2 Florida 85-55 15 Sam Houston St
 1 Texas 77-67 9 Purdue
 5 UConn 85-74 4 Stanford
 6 Maryland 77-64 3 Xavier
-7 Michigan State 68-46 2 Florida
+7 Michigan St 68-46 2 Florida
 1 Texas 82-78 5 UConn
-6 Maryland 58-60 7 Michigan State
-1 Texas 85-76 7 Michigan State
+6 Maryland 58-60 7 Michigan St
+1 Texas 85-76 7 Michigan St
 1 Arizona 80-51 16 Vermont
 8 Cincinnati 69-74 9 Gonzaga
 5 Notre Dame 70-69 12 Milwaukee
-4 Illinois 65-60 13 Western Kentucky
-6 Creighton 73-79 11 Central Michigan
-3 Duke 67-57 14 Colorado State
-7 Memphis 71-84 10 Arizona State
-2 Kansas 64-61 15 Utah State
+4 Illinois 65-60 13 WKU
+6 Creighton 73-79 11 C Mich
+3 Duke 67-57 14 Colorado St
+7 Memphis 71-84 10 Arizona St
+2 Kansas 64-61 15 Utah St
 1 Arizona 96-95 9 Gonzaga
 5 Notre Dame 68-60 4 Illinois
-11 Central Michigan 60-86 3 Duke
-10 Arizona State 76-108 2 Kansas
+11 C Mich 60-86 3 Duke
+10 Arizona St 76-108 2 Kansas
 1 Arizona 88-71 5 Notre Dame
 3 Duke 65-69 2 Kansas
 1 Arizona 75-78 2 Kansas
@@ -1215,18 +1215,18 @@
 3 Marquette 61-94 2 Kansas
 3 Syracuse 81-78 2 Kansas
 2004
-1 Duke 96-61 16 Alabama State
+1 Duke 96-61 16 Alabama St
 8 Seton Hall 80-76 9 Arizona
-5 Illinois 72-53 12 Murray State
+5 Illinois 72-53 12 Murray St
 4 Cincinnati 80-77 13 ETSU
 6 UNC 63-52 11 Air Force
 3 Texas 66-49 14 Princeton
 7 Xavier 80-70 10 Louisville
-2 Mississippi State 85-52 15 Monmouth
+2 Mississippi St 85-52 15 Monmouth
 1 Duke 90-62 8 Seton Hall
 5 Illinois 92-68 4 Cincinnati
 6 UNC 75-78 3 Texas
-7 Xavier 89-74 2 Mississippi State
+7 Xavier 89-74 2 Mississippi St
 1 Duke 72-62 5 Illinois
 3 Texas 71-79 7 Xavier
 1 Duke 66-63 7 Xavier
@@ -1237,25 +1237,25 @@
 6 Wisconsin 76-64 11 Richmond
 3 Pitt 53-44 14 UCF
 7 Memphis 59-43 10 South Carolina
-2 Oklahoma State 75-56 15 Eastern Washington
+2 Oklahoma St 75-56 15 E Wash
 1 St. Joseph's 70-65 8 Texas Tech
 12 Manhattan 80-84 4 Wake Forest
 6 Wisconsin 55-59 3 Pitt
-7 Memphis 53-70 2 Oklahoma State
+7 Memphis 53-70 2 Oklahoma St
 1 St. Joseph's 84-80 4 Wake Forest
-3 Pitt 51-63 2 Oklahoma State
-1 St. Joseph's 62-64 2 Oklahoma State
+3 Pitt 51-63 2 Oklahoma St
+1 St. Joseph's 62-64 2 Oklahoma St
 1 Stanford 71-45 16 UTSA
-8 Alabama 65-64 9 Southern Illinois
+8 Alabama 65-64 9 SIU
 5 Syracuse 80-75 12 BYU
 4 Maryland 86-83 13 UTEP
-6 Vanderbilt 71-58 11 Western Michigan
-3 NC State 61-52 14 Louisiana
+6 Vanderbilt 71-58 11 W Mich
+3 NC St 61-52 14 Louisiana
 7 DePaul 76-69 10 Dayton
 2 UConn 70-53 15 Vermont
 1 Stanford 67-70 8 Alabama
 5 Syracuse 72-70 4 Maryland
-6 Vanderbilt 75-73 3 NC State
+6 Vanderbilt 75-73 3 NC St
 7 DePaul 55-72 2 UConn
 8 Alabama 80-71 5 Syracuse
 6 Vanderbilt 53-73 2 UConn
@@ -1265,8 +1265,8 @@
 5 Providence 58-66 12 Pacific
 4 Kansas 78-53 13 UIC
 6 Boston College 58-51 11 Utah
-3 Georgia Tech 65-60 14 Northern Iowa
-7 Michigan State 66-72 10 Nevada
+3 Georgia Tech 65-60 14 N Iowa
+7 Michigan St 66-72 10 Nevada
 2 Gonzaga 76-49 15 Valparaiso
 1 Kentucky 75-76 9 UAB
 12 Pacific 63-78 4 Kansas
@@ -1276,12 +1276,12 @@
 3 Georgia Tech 72-67 10 Nevada
 4 Kansas 71-79 3 Georgia Tech
 2 UConn 79-78 1 Duke
-2 Oklahoma State 65-67 3 Georgia Tech
+2 Oklahoma St 65-67 3 Georgia Tech
 2 UConn 82-73 3 Georgia Tech
 2005
 1 Washington 88-77 16 Montana
 8 Pacific 79-71 9 Pitt
-5 Georgia Tech 80-68 12 George Washington
+5 Georgia Tech 80-68 12 GW
 4 Louisville 68-62 13 Louisiana
 6 Texas Tech 78-66 11 UCLA
 3 Gonzaga 74-64 14 Winthrop
@@ -1294,67 +1294,67 @@
 1 Washington 79-93 4 Louisville
 6 Texas Tech 60-65 7 West Virginia
 4 Louisville 93-85 7 West Virginia
-1 Duke 57-46 16 Delaware State
-8 Stanford 70-93 9 Mississippi State
-5 Michigan State 89-81 12 Old Dominion
+1 Duke 57-46 16 Delaware St
+8 Stanford 70-93 9 Mississippi St
+5 Michigan St 89-81 12 Old Dominion
 4 Syracuse 57-60 13 Vermont
 6 Utah 60-54 11 UTEP
 3 Oklahoma 84-67 14 Niagara
 7 Cincinnati 76-64 10 Iowa
-2 Kentucky 72-64 15 Eastern Kentucky
-1 Duke 63-55 9 Mississippi State
-5 Michigan State 72-61 13 Vermont
+2 Kentucky 72-64 15 EKU
+1 Duke 63-55 9 Mississippi St
+5 Michigan St 72-61 13 Vermont
 6 Utah 67-58 3 Oklahoma
 7 Cincinnati 60-69 2 Kentucky
-1 Duke 68-78 5 Michigan State
+1 Duke 68-78 5 Michigan St
 6 Utah 52-62 2 Kentucky
-5 Michigan State 94-88 2 Kentucky
+5 Michigan St 94-88 2 Kentucky
 1 Illinois 67-55 16 FDU
 8 Texas 57-61 9 Nevada
 5 Alabama 73-83 12 Milwaukee
 4 Boston College 85-65 13 Penn
 6 LSU 68-82 11 UAB
-3 Arizona 66-53 14 Utah State
-7 Southern Illinois 65-56 10 Saint Mary's
-2 Oklahoma State 63-50 15 Southeastern Louisiana
+3 Arizona 66-53 14 Utah St
+7 SIU 65-56 10 Saint Mary's
+2 Oklahoma St 63-50 15 SE LA
 1 Illinois 71-59 9 Nevada
 12 Milwaukee 83-75 4 Boston College
 11 UAB 63-85 3 Arizona
-7 Southern Illinois 77-85 2 Oklahoma State
+7 SIU 77-85 2 Oklahoma St
 1 Illinois 77-63 12 Milwaukee
-3 Arizona 79-78 2 Oklahoma State
+3 Arizona 79-78 2 Oklahoma St
 1 Illinois 90-89 3 Arizona
 1 UNC 96-68 16 Oakland
-8 Minnesota 53-64 9 Iowa State
+8 Minnesota 53-64 9 Iowa St
 5 Villanova 55-47 12 New Mexico
 4 Florida 67-62 13 Ohio
-6 Wisconsin 57-52 11 Northern Iowa
+6 Wisconsin 57-52 11 N Iowa
 3 Kansas 63-64 14 Bucknell
-7 Charlotte 63-75 10 NC State
+7 Charlotte 63-75 10 NC St
 2 UConn 77-71 15 UCF
-1 UNC 92-65 9 Iowa State
+1 UNC 92-65 9 Iowa St
 5 Villanova 76-65 4 Florida
 6 Wisconsin 71-62 14 Bucknell
-10 NC State 65-62 2 UConn
+10 NC St 65-62 2 UConn
 1 UNC 67-66 5 Villanova
-6 Wisconsin 65-56 10 NC State
+6 Wisconsin 65-56 10 NC St
 1 UNC 88-82 6 Wisconsin
-1 UNC 87-71 5 Michigan State
+1 UNC 87-71 5 Michigan St
 4 Louisville 57-72 1 Illinois
 1 UNC 75-70 1 Illinois
 2006
 1 Duke 70-54 16 Southern
-8 George Washington 88-85 9 UNC Wilmington
+8 GW 88-85 9 UNCW
 5 Syracuse 58-66 12 Texas A&M
 4 LSU 80-64 13 Iona
-6 West Virginia 64-46 11 Southern Illinois
-3 Iowa 63-64 14 Northwestern State
-7 California 52-58 10 NC State
+6 West Virginia 64-46 11 SIU
+3 Iowa 63-64 14 Northwestern St
+7 California 52-58 10 NC St
 2 Texas 60-52 15 Penn
-1 Duke 74-61 8 George Washington
+1 Duke 74-61 8 GW
 12 Texas A&M 57-58 4 LSU
-6 West Virginia 67-54 14 Northwestern State
-10 NC State 54-75 2 Texas
+6 West Virginia 67-54 14 Northwestern St
+10 NC St 54-75 2 Texas
 1 Duke 54-62 4 LSU
 6 West Virginia 71-74 2 Texas
 4 LSU 70-60 2 Texas
@@ -1363,21 +1363,21 @@
 5 Nevada 79-87 12 Montana
 4 Boston College 88-76 13 Pacific
 6 Oklahoma 74-82 11 Milwaukee
-3 Florida 76-50 14 South Alabama
-7 Georgetown 54-49 10 Northern Iowa
-2 Ohio State 70-62 15 Davidson
+3 Florida 76-50 14 S Alabama
+7 Georgetown 54-49 10 N Iowa
+2 Ohio St 70-62 15 Davidson
 1 Villanova 82-78 8 Arizona
 12 Montana 56-69 4 Boston College
 11 Milwaukee 60-82 3 Florida
-7 Georgetown 70-52 2 Ohio State
+7 Georgetown 70-52 2 Ohio St
 1 Villanova 60-59 4 Boston College
 3 Florida 57-53 7 Georgetown
 1 Villanova 62-75 3 Florida
 1 Memphis 94-78 16 Oral Roberts
 8 Arkansas 55-59 9 Bucknell
-5 Pitt 79-64 12 Kent State
+5 Pitt 79-64 12 Kent St
 4 Kansas 73-77 13 Bradley
-6 Indiana 87-83 11 San Diego State
+6 Indiana 87-83 11 San Diego St
 3 Gonzaga 79-75 14 Xavier
 7 Marquette 85-90 10 Alabama
 2 UCLA 78-44 15 Belmont
@@ -1388,48 +1388,48 @@
 1 Memphis 80-64 13 Bradley
 3 Gonzaga 71-73 2 UCLA
 1 Memphis 45-50 2 UCLA
-1 UConn 72-59 16 Albany (NY)
+1 UConn 72-59 16 Albany
 8 Kentucky 69-64 9 UAB
-5 Washington 75-61 12 Utah State
+5 Washington 75-61 12 Utah St
 4 Illinois 78-69 13 Air Force
-6 Michigan State 65-75 11 George Mason
-3 UNC 69-65 14 Murray State
-7 Wichita State 86-66 10 Seton Hall
+6 Michigan St 65-75 11 GMU
+3 UNC 69-65 14 Murray St
+7 Wichita St 86-66 10 Seton Hall
 2 Tennessee 63-61 15 Winthrop
 1 UConn 87-83 8 Kentucky
 5 Washington 67-64 4 Illinois
-11 George Mason 65-60 3 UNC
-7 Wichita State 80-73 2 Tennessee
+11 GMU 65-60 3 UNC
+7 Wichita St 80-73 2 Tennessee
 1 UConn 98-92 5 Washington
-11 George Mason 63-55 7 Wichita State
-1 UConn 84-86 11 George Mason
-3 Florida 73-58 11 George Mason
+11 GMU 63-55 7 Wichita St
+1 UConn 84-86 11 GMU
+3 Florida 73-58 11 GMU
 4 LSU 45-59 2 UCLA
 3 Florida 73-57 2 UCLA
 2007
-1 UNC 86-65 16 Eastern Kentucky
-8 Marquette 49-61 9 Michigan State
+1 UNC 86-65 16 EKU
+8 Marquette 49-61 9 Michigan St
 5 USC 77-60 12 Arkansas
-4 Texas 79-67 13 New Mexico State
-6 Vanderbilt 77-44 11 George Washington
-3 Washington State 70-54 14 Oral Roberts
+4 Texas 79-67 13 New Mexico St
+6 Vanderbilt 77-44 11 GW
+3 Washington St 70-54 14 Oral Roberts
 7 Boston College 84-75 10 Texas Tech
 2 Georgetown 80-55 15 Belmont
-1 UNC 81-67 9 Michigan State
+1 UNC 81-67 9 Michigan St
 5 USC 87-68 4 Texas
-6 Vanderbilt 78-74 3 Washington State
+6 Vanderbilt 78-74 3 Washington St
 7 Boston College 55-62 2 Georgetown
 1 UNC 74-64 5 USC
 6 Vanderbilt 65-66 2 Georgetown
 1 UNC 84-96 2 Georgetown
-1 Florida 112-69 16 Jackson State
+1 Florida 112-69 16 Jackson St
 8 Arizona 63-72 9 Purdue
 5 Butler 57-46 12 Old Dominion
 4 Maryland 82-70 13 Davidson
 6 Notre Dame 64-74 11 Winthrop
-3 Oregon 58-56 14 Miami (OH)
+3 Oregon 58-56 14 Miami OH
 7 UNLV 67-63 10 Georgia Tech
-2 Wisconsin 76-63 15 Texas A&M-Corpus Christi
+2 Wisconsin 76-63 15 TAMU-CC
 1 Florida 74-67 9 Purdue
 5 Butler 62-59 4 Maryland
 11 Winthrop 61-75 3 Oregon
@@ -1437,98 +1437,98 @@
 1 Florida 65-57 5 Butler
 3 Oregon 76-72 7 UNLV
 1 Florida 85-77 3 Oregon
-1 Ohio State 78-57 16 Central Connecticut
+1 Ohio St 78-57 16 CCSU
 8 BYU 77-79 9 Xavier
-5 Tennessee 121-86 12 Long Beach State
-4 Virginia 84-57 13 Albany (NY)
+5 Tennessee 121-86 12 Long Beach St
+4 Virginia 84-57 13 Albany
 6 Louisville 78-58 11 Stanford
 3 Texas A&M 68-52 14 Penn
 7 Nevada 77-71 10 Creighton
-2 Memphis 73-58 15 North Texas
-1 Ohio State 78-71 9 Xavier
+2 Memphis 73-58 15 UNT
+1 Ohio St 78-71 9 Xavier
 5 Tennessee 77-74 4 Virginia
 6 Louisville 69-72 3 Texas A&M
 7 Nevada 62-78 2 Memphis
-1 Ohio State 85-84 5 Tennessee
+1 Ohio St 85-84 5 Tennessee
 3 Texas A&M 64-65 2 Memphis
-1 Ohio State 92-76 2 Memphis
+1 Ohio St 92-76 2 Memphis
 1 Kansas 107-67 16 Niagara
 8 Kentucky 67-58 9 Villanova
 5 Virginia Tech 54-52 12 Illinois
-4 Southern Illinois 61-51 13 Holy Cross
+4 SIU 61-51 13 Holy Cross
 6 Duke 77-79 11 VCU
-3 Pitt 79-58 14 Wright State
+3 Pitt 79-58 14 Wright St
 7 Indiana 70-57 10 Gonzaga
-2 UCLA 70-42 15 Weber State
+2 UCLA 70-42 15 Weber St
 1 Kansas 88-76 8 Kentucky
-5 Virginia Tech 48-63 4 Southern Illinois
+5 Virginia Tech 48-63 4 SIU
 11 VCU 79-84 3 Pitt
 7 Indiana 49-54 2 UCLA
-1 Kansas 61-58 4 Southern Illinois
+1 Kansas 61-58 4 SIU
 3 Pitt 55-64 2 UCLA
 1 Kansas 55-68 2 UCLA
 1 Florida 76-66 2 UCLA
-2 Georgetown 60-67 1 Ohio State
-1 Florida 84-75 1 Ohio State
+2 Georgetown 60-67 1 Ohio St
+1 Florida 84-75 1 Ohio St
 2008
-1 UNC 113-74 16 Mount St. Mary's
+1 UNC 113-74 16 MSM
 8 Indiana 72-86 9 Arkansas
-5 Notre Dame 68-50 12 George Mason
-4 Washington State 71-40 13 Winthrop
+5 Notre Dame 68-50 12 GMU
+4 Washington St 71-40 13 Winthrop
 6 Oklahoma 72-64 11 St. Joseph's
-3 Louisville 79-61 14 Boise State
-7 Butler 81-61 10 South Alabama
+3 Louisville 79-61 14 Boise St
+7 Butler 81-61 10 S Alabama
 2 Tennessee 72-57 15 American
 1 UNC 108-77 9 Arkansas
-5 Notre Dame 41-61 4 Washington State
+5 Notre Dame 41-61 4 Washington St
 6 Oklahoma 48-78 3 Louisville
 7 Butler 71-76 2 Tennessee
-1 UNC 68-47 4 Washington State
+1 UNC 68-47 4 Washington St
 3 Louisville 79-60 2 Tennessee
 1 UNC 83-73 3 Louisville
-1 Kansas 85-61 16 Portland State
-8 UNLV 71-58 9 Kent State
+1 Kansas 85-61 16 Portland St
+8 UNLV 71-58 9 Kent St
 5 Clemson 69-75 12 Villanova
 4 Vanderbilt 62-83 13 Siena
-6 USC 67-80 11 Kansas State
-3 Wisconsin 71-56 14 Cal State Fullerton
+6 USC 67-80 11 Kansas St
+3 Wisconsin 71-56 14 CS Fullerton
 7 Gonzaga 76-82 10 Davidson
 2 Georgetown 66-47 15 UMBC
 1 Kansas 75-56 8 UNLV
 12 Villanova 84-72 13 Siena
-11 Kansas State 55-72 3 Wisconsin
+11 Kansas St 55-72 3 Wisconsin
 10 Davidson 74-70 2 Georgetown
 1 Kansas 72-57 12 Villanova
 3 Wisconsin 56-73 10 Davidson
 1 Kansas 59-57 10 Davidson
 1 Memphis 87-63 16 UT Arlington
-8 Mississippi State 76-69 9 Oregon
-5 Michigan State 72-61 12 Temple
+8 Mississippi St 76-69 9 Oregon
+5 Michigan St 72-61 12 Temple
 4 Pitt 82-63 13 Oral Roberts
 6 Marquette 74-66 11 Kentucky
 3 Stanford 77-53 14 Cornell
-7 Miami (FL) 78-64 10 Saint Mary's
+7 Miami 78-64 10 Saint Mary's
 2 Texas 74-54 15 Austin Peay
-1 Memphis 77-74 8 Mississippi State
-5 Michigan State 65-54 4 Pitt
+1 Memphis 77-74 8 Mississippi St
+5 Michigan St 65-54 4 Pitt
 6 Marquette 81-82 3 Stanford
-7 Miami (FL) 72-75 2 Texas
-1 Memphis 92-74 5 Michigan State
+7 Miami 72-75 2 Texas
+1 Memphis 92-74 5 Michigan St
 3 Stanford 62-82 2 Texas
 1 Memphis 85-67 2 Texas
-1 UCLA 70-29 16 Mississippi Valley State
+1 UCLA 70-29 16 MVSU
 8 BYU 62-67 9 Texas A&M
-5 Drake 99-101 12 Western Kentucky
+5 Drake 99-101 12 WKU
 4 UConn 69-70 13 San Diego
 6 Purdue 90-79 11 Baylor
 3 Xavier 73-61 14 Georgia
 7 West Virginia 75-65 10 Arizona
 2 Duke 71-70 15 Belmont
 1 UCLA 51-49 9 Texas A&M
-12 Western Kentucky 72-63 13 San Diego
+12 WKU 72-63 13 San Diego
 6 Purdue 78-85 3 Xavier
 7 West Virginia 73-67 2 Duke
-1 UCLA 88-78 12 Western Kentucky
+1 UCLA 88-78 12 WKU
 3 Xavier 79-75 7 West Virginia
 1 UCLA 76-57 3 Xavier
 1 Kansas 84-66 1 UNC
@@ -1536,58 +1536,58 @@
 1 Kansas 75-68 1 Memphis
 2009
 1 Pitt 72-62 16 ETSU
-8 Oklahoma State 77-75 9 Tennessee
-5 Florida State 59-61 12 Wisconsin
-4 Xavier 77-59 13 Portland State
+8 Oklahoma St 77-75 9 Tennessee
+5 Florida St 59-61 12 Wisconsin
+4 Xavier 77-59 13 Portland St
 6 UCLA 65-64 11 VCU
 3 Villanova 80-67 14 American
 7 Texas 76-62 10 Minnesota
 2 Duke 86-62 15 Binghamton
-1 Pitt 84-76 8 Oklahoma State
+1 Pitt 84-76 8 Oklahoma St
 12 Wisconsin 49-60 4 Xavier
 6 UCLA 69-89 3 Villanova
 7 Texas 69-74 2 Duke
 1 Pitt 60-55 4 Xavier
 3 Villanova 77-54 2 Duke
 1 Pitt 76-78 3 Villanova
-1 Louisville 74-54 16 Morehead State
-8 Ohio State 72-74 9 Siena
+1 Louisville 74-54 16 Morehead St
+8 Ohio St 72-74 9 Siena
 5 Utah 71-84 12 Arizona
-4 Wake Forest 69-84 13 Cleveland State
+4 Wake Forest 69-84 13 Cleveland St
 6 West Virginia 60-68 11 Dayton
-3 Kansas 84-74 14 North Dakota State
+3 Kansas 84-74 14 ND St
 7 Boston College 55-72 10 USC
-2 Michigan State 77-62 15 Robert Morris
+2 Michigan St 77-62 15 Robert Morris
 1 Louisville 79-72 9 Siena
-12 Arizona 71-57 13 Cleveland State
+12 Arizona 71-57 13 Cleveland St
 11 Dayton 43-60 3 Kansas
-10 USC 69-74 2 Michigan State
+10 USC 69-74 2 Michigan St
 1 Louisville 103-64 12 Arizona
-3 Kansas 62-67 2 Michigan State
-1 Louisville 52-64 2 Michigan State
+3 Kansas 62-67 2 Michigan St
+1 Louisville 52-64 2 Michigan St
 1 UNC 101-58 16 Radford
 8 LSU 75-71 9 Butler
-5 Illinois 72-76 12 Western Kentucky
+5 Illinois 72-76 12 WKU
 4 Gonzaga 77-64 13 Akron
-6 Arizona State 66-57 11 Temple
-3 Syracuse 59-44 14 Stephen F. Austin
+6 Arizona St 66-57 11 Temple
+3 Syracuse 59-44 14 SFA
 7 Clemson 59-62 10 Michigan
-2 Oklahoma 82-54 15 Morgan State
+2 Oklahoma 82-54 15 Morgan St
 1 UNC 84-70 8 LSU
-12 Western Kentucky 81-83 4 Gonzaga
-6 Arizona State 67-78 3 Syracuse
+12 WKU 81-83 4 Gonzaga
+6 Arizona St 67-78 3 Syracuse
 10 Michigan 63-73 2 Oklahoma
 1 UNC 98-77 4 Gonzaga
 3 Syracuse 71-84 2 Oklahoma
 1 UNC 72-60 2 Oklahoma
 1 UConn 103-47 16 Chattanooga
 8 BYU 66-79 9 Texas A&M
-5 Purdue 61-56 12 Northern Iowa
-4 Washington 71-58 13 Mississippi State
-6 Marquette 58-57 11 Utah State
+5 Purdue 61-56 12 N Iowa
+4 Washington 71-58 13 Mississippi St
+6 Marquette 58-57 11 Utah St
 3 Missouri 78-59 14 Cornell
 7 California 71-84 10 Maryland
-2 Memphis 81-70 15 Cal State Northridge
+2 Memphis 81-70 15 CS Northridge
 1 UConn 92-66 9 Texas A&M
 5 Purdue 76-74 4 Washington
 6 Marquette 79-83 3 Missouri
@@ -1596,8 +1596,8 @@
 3 Missouri 102-91 2 Memphis
 1 UConn 82-75 3 Missouri
 1 UNC 83-69 3 Villanova
-1 UConn 73-82 2 Michigan State
-1 UNC 89-72 2 Michigan State
+1 UConn 73-82 2 Michigan St
+1 UNC 89-72 2 Michigan St
 2010
 1 Kentucky 100-71 16 ETSU
 8 Texas 80-81 9 Wake Forest
@@ -1606,7 +1606,7 @@
 6 Marquette 78-80 11 Washington
 3 New Mexico 62-57 14 Montana
 7 Clemson 78-86 10 Missouri
-2 West Virginia 77-50 15 Morgan State
+2 West Virginia 77-50 15 Morgan St
 1 Kentucky 90-60 9 Wake Forest
 12 Cornell 87-69 4 Wisconsin
 11 Washington 82-64 3 New Mexico
@@ -1615,26 +1615,26 @@
 11 Washington 56-69 2 West Virginia
 1 Kentucky 66-73 2 West Virginia
 1 Kansas 90-74 16 Lehigh
-8 UNLV 66-69 9 Northern Iowa
-5 Michigan State 70-67 12 New Mexico State
+8 UNLV 66-69 9 N Iowa
+5 Michigan St 70-67 12 New Mexico St
 4 Maryland 89-77 13 Houston
-6 Tennessee 62-59 11 San Diego State
+6 Tennessee 62-59 11 San Diego St
 3 Georgetown 83-97 14 Ohio
-7 Oklahoma State 59-64 10 Georgia Tech
-2 Ohio State 68-51 15 UCSB
-1 Kansas 67-69 9 Northern Iowa
-5 Michigan State 85-83 4 Maryland
+7 Oklahoma St 59-64 10 Georgia Tech
+2 Ohio St 68-51 15 UCSB
+1 Kansas 67-69 9 N Iowa
+5 Michigan St 85-83 4 Maryland
 6 Tennessee 83-68 14 Ohio
-10 Georgia Tech 66-75 2 Ohio State
-9 Northern Iowa 52-59 5 Michigan State
-6 Tennessee 76-73 2 Ohio State
-5 Michigan State 70-69 6 Tennessee
-1 Duke 73-44 16 Arkansas-Pine Bluff
+10 Georgia Tech 66-75 2 Ohio St
+9 N Iowa 52-59 5 Michigan St
+6 Tennessee 76-73 2 Ohio St
+5 Michigan St 70-69 6 Tennessee
+1 Duke 73-44 16 Ark PB
 8 California 77-62 9 Louisville
-5 Texas A&M 69-53 12 Utah State
+5 Texas A&M 69-53 12 Utah St
 4 Purdue 72-64 13 Siena
 6 Notre Dame 50-51 11 Old Dominion
-3 Baylor 68-59 14 Sam Houston
+3 Baylor 68-59 14 Sam Houston St
 7 Richmond 71-80 10 Saint Mary's
 2 Villanova 73-70 15 Robert Morris
 1 Duke 68-53 8 California
@@ -1645,68 +1645,68 @@
 3 Baylor 72-49 10 Saint Mary's
 1 Duke 78-71 3 Baylor
 1 Syracuse 79-56 16 Vermont
-8 Gonzaga 67-60 9 Florida State
+8 Gonzaga 67-60 9 Florida St
 5 Butler 77-59 12 UTEP
-4 Vanderbilt 65-66 13 Murray State
+4 Vanderbilt 65-66 13 Murray St
 6 Xavier 65-54 11 Minnesota
 3 Pitt 89-66 14 Oakland
 7 BYU 99-92 10 Florida
-2 Kansas State 82-62 15 North Texas
+2 Kansas St 82-62 15 UNT
 1 Syracuse 87-65 8 Gonzaga
-5 Butler 54-52 13 Murray State
+5 Butler 54-52 13 Murray St
 6 Xavier 71-68 3 Pitt
-7 BYU 72-84 2 Kansas State
+7 BYU 72-84 2 Kansas St
 1 Syracuse 59-63 5 Butler
-6 Xavier 96-101 2 Kansas State
-5 Butler 63-56 2 Kansas State
+6 Xavier 96-101 2 Kansas St
+5 Butler 63-56 2 Kansas St
 1 Duke 78-57 2 West Virginia
-5 Michigan State 50-52 5 Butler
+5 Michigan St 50-52 5 Butler
 1 Duke 61-59 5 Butler
 2011
-1 Ohio State 75-46 16 UTSA
-8 George Mason 61-57 9 Villanova
+1 Ohio St 75-46 16 UTSA
+8 GMU 61-57 9 Villanova
 5 West Virginia 84-76 12 Clemson
 4 Kentucky 59-57 13 Princeton
 6 Xavier 55-66 11 Marquette
-3 Syracuse 77-60 14 Indiana State
+3 Syracuse 77-60 14 Indiana St
 7 Washington 68-65 10 Georgia
 2 UNC 102-87 15 LIU
-1 Ohio State 98-66 8 George Mason
+1 Ohio St 98-66 8 GMU
 5 West Virginia 63-71 4 Kentucky
 11 Marquette 66-62 3 Syracuse
 7 Washington 83-86 2 UNC
-1 Ohio State 60-62 4 Kentucky
+1 Ohio St 60-62 4 Kentucky
 11 Marquette 63-81 2 UNC
 4 Kentucky 76-69 2 UNC
-1 Pitt 74-51 16 UNC Asheville
+1 Pitt 74-51 16 UNCA
 8 Butler 60-58 9 Old Dominion
-5 Kansas State 73-68 12 Utah State
+5 Kansas St 73-68 12 Utah St
 4 Wisconsin 72-58 13 Belmont
-6 St. John's (NY) 71-86 11 Gonzaga
+6 St. Johns 71-86 11 Gonzaga
 3 BYU 74-66 14 Wofford
-7 UCLA 78-76 10 Michigan State
+7 UCLA 78-76 10 Michigan St
 2 Florida 79-51 15 UCSB
 1 Pitt 70-71 8 Butler
-5 Kansas State 65-70 4 Wisconsin
+5 Kansas St 65-70 4 Wisconsin
 11 Gonzaga 67-89 3 BYU
 7 UCLA 65-73 2 Florida
 8 Butler 61-54 4 Wisconsin
 3 BYU 74-83 2 Florida
 8 Butler 74-71 2 Florida
-1 Kansas 72-53 16 Boston University
+1 Kansas 72-53 16 Boston
 8 UNLV 62-73 9 Illinois
 5 Vanderbilt 66-69 12 Richmond
-4 Louisville 61-62 13 Morehead State
+4 Louisville 61-62 13 Morehead St
 6 Georgetown 56-74 11 VCU
 3 Purdue 65-43 14 St. Peter's
-7 Texas A&M 50-57 10 Florida State
+7 Texas A&M 50-57 10 Florida St
 2 Notre Dame 69-56 15 Akron
 1 Kansas 73-59 9 Illinois
-12 Richmond 65-48 13 Morehead State
+12 Richmond 65-48 13 Morehead St
 11 VCU 94-76 3 Purdue
-10 Florida State 71-57 2 Notre Dame
+10 Florida St 71-57 2 Notre Dame
 1 Kansas 77-57 12 Richmond
-11 VCU 72-71 10 Florida State
+11 VCU 72-71 10 Florida St
 1 Kansas 61-71 11 VCU
 1 Duke 87-45 16 Hampton
 8 Michigan 75-45 9 Tennessee
@@ -1714,205 +1714,205 @@
 4 Texas 85-81 13 Oakland
 6 Cincinnati 78-63 11 Missouri
 3 UConn 81-52 14 Bucknell
-7 Temple 66-64 10 Penn State
-2 San Diego State 68-50 15 Northern Colorado
+7 Temple 66-64 10 Penn St
+2 San Diego St 68-50 15 N Colorado
 1 Duke 73-71 8 Michigan
 5 Arizona 70-69 4 Texas
 6 Cincinnati 58-69 3 UConn
-7 Temple 64-71 2 San Diego State
+7 Temple 64-71 2 San Diego St
 1 Duke 77-93 5 Arizona
-3 UConn 74-67 2 San Diego State
+3 UConn 74-67 2 San Diego St
 5 Arizona 63-65 3 UConn
 3 UConn 56-55 4 Kentucky
 11 VCU 62-70 8 Butler
 3 UConn 53-41 8 Butler
 2012
-1 Syracuse 72-65 16 UNC Asheville
-8 Kansas State 70-64 9 Southern Miss
+1 Syracuse 72-65 16 UNCA
+8 Kansas St 70-64 9 Southern Miss
 5 Vanderbilt 79-70 12 Harvard
 4 Wisconsin 73-49 13 Montana
 6 Cincinnati 65-59 11 Texas
-3 Florida State 66-63 14 St. Bonaventure
+3 Florida St 66-63 14 St. Bonnie
 7 Gonzaga 77-54 10 West Virginia
-2 Ohio State 78-59 15 Loyola (MD)
-1 Syracuse 75-59 8 Kansas State
+2 Ohio St 78-59 15 Loyola MD
+1 Syracuse 75-59 8 Kansas St
 5 Vanderbilt 57-60 4 Wisconsin
-6 Cincinnati 62-56 3 Florida State
-7 Gonzaga 66-73 2 Ohio State
+6 Cincinnati 62-56 3 Florida St
+7 Gonzaga 66-73 2 Ohio St
 1 Syracuse 64-63 4 Wisconsin
-6 Cincinnati 66-81 2 Ohio State
-1 Syracuse 70-77 2 Ohio State
+6 Cincinnati 66-81 2 Ohio St
+1 Syracuse 70-77 2 Ohio St
 1 UNC 77-58 16 Vermont
 8 Creighton 58-57 9 Alabama
-5 Temple 44-58 12 South Florida
+5 Temple 44-58 12 USF
 4 Michigan 60-65 13 Ohio
-6 San Diego State 65-79 11 NC State
+6 San Diego St 65-79 11 NC St
 3 Georgetown 74-59 14 Belmont
 7 Saint Mary's 69-72 10 Purdue
-2 Kansas 65-50 15 Detroit Mercy
+2 Kansas 65-50 15 Detroit
 1 UNC 87-73 8 Creighton
-12 South Florida 56-62 13 Ohio
-11 NC State 66-63 3 Georgetown
+12 USF 56-62 13 Ohio
+11 NC St 66-63 3 Georgetown
 10 Purdue 60-63 2 Kansas
 1 UNC 73-65 13 Ohio
-11 NC State 57-60 2 Kansas
+11 NC St 57-60 2 Kansas
 1 UNC 67-80 2 Kansas
-1 Kentucky 81-66 16 Western Kentucky
-8 Iowa State 77-64 9 UConn
-5 Wichita State 59-62 12 VCU
-4 Indiana 79-66 13 New Mexico State
+1 Kentucky 81-66 16 WKU
+8 Iowa St 77-64 9 UConn
+5 Wichita St 59-62 12 VCU
+4 Indiana 79-66 13 New Mexico St
 6 UNLV 64-68 11 Colorado
-3 Baylor 68-60 14 South Dakota State
+3 Baylor 68-60 14 SD St
 7 Notre Dame 63-67 10 Xavier
 2 Duke 70-75 15 Lehigh
-1 Kentucky 87-71 8 Iowa State
+1 Kentucky 87-71 8 Iowa St
 12 VCU 61-63 4 Indiana
 11 Colorado 63-80 3 Baylor
 10 Xavier 70-58 15 Lehigh
 1 Kentucky 102-90 4 Indiana
 3 Baylor 75-70 10 Xavier
 1 Kentucky 82-70 3 Baylor
-1 Michigan State 89-67 16 LIU
-8 Memphis 54-61 9 Saint Louis
-5 New Mexico 75-68 12 Long Beach State
+1 Michigan St 89-67 16 LIU
+8 Memphis 54-61 9 St. Louis
+5 New Mexico 75-68 12 Long Beach St
 4 Louisville 69-62 13 Davidson
-6 Murray State 58-41 11 Colorado State
+6 Murray St 58-41 11 Colorado St
 3 Marquette 88-68 14 BYU
 7 Florida 71-45 10 Virginia
-2 Missouri 84-86 15 Norfolk State
-1 Michigan State 65-61 9 Saint Louis
+2 Missouri 84-86 15 Norfolk St
+1 Michigan St 65-61 9 St. Louis
 5 New Mexico 56-59 4 Louisville
-6 Murray State 53-62 3 Marquette
-7 Florida 84-50 15 Norfolk State
-1 Michigan State 44-57 4 Louisville
+6 Murray St 53-62 3 Marquette
+7 Florida 84-50 15 Norfolk St
+1 Michigan St 44-57 4 Louisville
 3 Marquette 58-68 7 Florida
 4 Louisville 72-68 7 Florida
 1 Kentucky 69-61 4 Louisville
-2 Ohio State 62-64 2 Kansas
+2 Ohio St 62-64 2 Kansas
 1 Kentucky 67-59 2 Kansas
 2013
-1 Indiana 83-62 16 James Madison
-8 NC State 72-76 9 Temple
+1 Indiana 83-62 16 JMU
+8 NC St 72-76 9 Temple
 5 UNLV 61-64 12 California
 4 Syracuse 81-34 13 Montana
 6 Butler 68-56 11 Bucknell
 3 Marquette 59-58 14 Davidson
 7 Illinois 57-49 10 Colorado
-2 Miami (FL) 78-49 15 Pacific
+2 Miami 78-49 15 Pacific
 1 Indiana 58-52 9 Temple
 12 California 60-66 4 Syracuse
 6 Butler 72-74 3 Marquette
-7 Illinois 59-63 2 Miami (FL)
+7 Illinois 59-63 2 Miami
 1 Indiana 50-61 4 Syracuse
-3 Marquette 71-61 2 Miami (FL)
+3 Marquette 71-61 2 Miami
 4 Syracuse 55-39 3 Marquette
-1 Louisville 79-48 16 North Carolina A&T
-8 Colorado State 84-72 9 Missouri
-5 Oklahoma State 55-68 12 Oregon
-4 Saint Louis 64-44 13 New Mexico State
+1 Louisville 79-48 16 NC A&T
+8 Colorado St 84-72 9 Missouri
+5 Oklahoma St 55-68 12 Oregon
+4 St. Louis 64-44 13 New Mexico St
 6 Memphis 54-52 11 Saint Mary's
-3 Michigan State 65-54 14 Valparaiso
+3 Michigan St 65-54 14 Valparaiso
 7 Creighton 67-63 10 Cincinnati
-2 Duke 73-61 15 Albany (NY)
-1 Louisville 82-56 8 Colorado State
-12 Oregon 74-57 4 Saint Louis
-6 Memphis 48-70 3 Michigan State
+2 Duke 73-61 15 Albany
+1 Louisville 82-56 8 Colorado St
+12 Oregon 74-57 4 St. Louis
+6 Memphis 48-70 3 Michigan St
 7 Creighton 50-66 2 Duke
 1 Louisville 77-69 12 Oregon
-3 Michigan State 61-71 2 Duke
+3 Michigan St 61-71 2 Duke
 1 Louisville 85-63 2 Duke
-1 Kansas 64-57 16 Western Kentucky
+1 Kansas 64-57 16 WKU
 8 UNC 78-71 9 Villanova
 5 VCU 88-42 12 Akron
-4 Michigan 71-56 13 South Dakota State
+4 Michigan 71-56 13 SD St
 6 UCLA 63-83 11 Minnesota
-3 Florida 79-47 14 Northwestern State
-7 San Diego State 70-55 10 Oklahoma
-2 Georgetown 68-78 15 Florida Gulf Coast
+3 Florida 79-47 14 Northwestern St
+7 San Diego St 70-55 10 Oklahoma
+2 Georgetown 68-78 15 FGCU
 1 Kansas 70-58 8 UNC
 5 VCU 53-78 4 Michigan
 11 Minnesota 64-78 3 Florida
-7 San Diego State 71-81 15 Florida Gulf Coast
+7 San Diego St 71-81 15 FGCU
 1 Kansas 85-87 4 Michigan
-3 Florida 62-50 15 Florida Gulf Coast
+3 Florida 62-50 15 FGCU
 4 Michigan 79-59 3 Florida
 1 Gonzaga 64-58 16 Southern
-8 Pitt 55-73 9 Wichita State
+8 Pitt 55-73 9 Wichita St
 5 Wisconsin 46-57 12 Ole Miss
-4 Kansas State 61-63 13 La Salle
+4 Kansas St 61-63 13 La Salle
 6 Arizona 81-64 11 Belmont
 3 New Mexico 62-68 14 Harvard
-7 Notre Dame 58-76 10 Iowa State
-2 Ohio State 95-70 15 Iona
-1 Gonzaga 70-76 9 Wichita State
+7 Notre Dame 58-76 10 Iowa St
+2 Ohio St 95-70 15 Iona
+1 Gonzaga 70-76 9 Wichita St
 12 Ole Miss 74-76 13 La Salle
 6 Arizona 74-51 14 Harvard
-10 Iowa State 75-78 2 Ohio State
-9 Wichita State 72-58 13 La Salle
-6 Arizona 70-73 2 Ohio State
-9 Wichita State 70-66 2 Ohio State
-1 Louisville 72-68 9 Wichita State
+10 Iowa St 75-78 2 Ohio St
+9 Wichita St 72-58 13 La Salle
+6 Arizona 70-73 2 Ohio St
+9 Wichita St 70-66 2 Ohio St
+1 Louisville 72-68 9 Wichita St
 4 Syracuse 56-61 4 Michigan
 1 Louisville 82-76 4 Michigan
 2014
-1 Virginia 70-59 16 Coastal Carolina
-8 Memphis 71-66 9 George Washington
+1 Virginia 70-59 16 CCU
+8 Memphis 71-66 9 GW
 5 Cincinnati 57-61 12 Harvard
-4 Michigan State 93-78 13 Delaware
+4 Michigan St 93-78 13 Delaware
 6 UNC 79-77 11 Providence
-3 Iowa State 93-75 14 North Carolina Central
+3 Iowa St 93-75 14 NCCU
 7 UConn 89-81 10 St. Joseph's
 2 Villanova 73-53 15 Milwaukee
 1 Virginia 78-60 8 Memphis
-12 Harvard 73-80 4 Michigan State
-6 UNC 83-85 3 Iowa State
+12 Harvard 73-80 4 Michigan St
+6 UNC 83-85 3 Iowa St
 7 UConn 77-65 2 Villanova
-1 Virginia 59-61 4 Michigan State
-3 Iowa State 76-81 7 UConn
-4 Michigan State 54-60 7 UConn
-1 Wichita State 64-37 16 Cal Poly
-8 Kentucky 56-49 9 Kansas State
-5 Saint Louis 83-80 12 NC State
+1 Virginia 59-61 4 Michigan St
+3 Iowa St 76-81 7 UConn
+4 Michigan St 54-60 7 UConn
+1 Wichita St 64-37 16 Cal Poly
+8 Kentucky 56-49 9 Kansas St
+5 St. Louis 83-80 12 NC St
 4 Louisville 71-64 13 Manhattan
 6 UMass 67-86 11 Tennessee
 3 Duke 71-78 14 Mercer
-7 Texas 87-85 10 Arizona State
+7 Texas 87-85 10 Arizona St
 2 Michigan 57-40 15 Wofford
-1 Wichita State 76-78 8 Kentucky
-5 Saint Louis 51-66 4 Louisville
+1 Wichita St 76-78 8 Kentucky
+5 St. Louis 51-66 4 Louisville
 11 Tennessee 83-63 14 Mercer
 7 Texas 65-79 2 Michigan
 8 Kentucky 74-69 4 Louisville
 11 Tennessee 71-73 2 Michigan
 8 Kentucky 75-72 2 Michigan
-1 Florida 67-55 16 Albany (NY)
+1 Florida 67-55 16 Albany
 8 Colorado 48-77 9 Pitt
-5 VCU 75-77 12 Stephen F. Austin
+5 VCU 75-77 12 SFA
 4 UCLA 76-59 13 Tulsa
-6 Ohio State 59-60 11 Dayton
-3 Syracuse 77-53 14 Western Michigan
+6 Ohio St 59-60 11 Dayton
+3 Syracuse 77-53 14 W Mich
 7 New Mexico 53-58 10 Stanford
-2 Kansas 80-69 15 Eastern Kentucky
+2 Kansas 80-69 15 EKU
 1 Florida 61-45 9 Pitt
-12 Stephen F. Austin 60-77 4 UCLA
+12 SFA 60-77 4 UCLA
 11 Dayton 55-53 3 Syracuse
 10 Stanford 60-57 2 Kansas
 1 Florida 79-68 4 UCLA
 11 Dayton 82-72 10 Stanford
 1 Florida 62-52 11 Dayton
-1 Arizona 68-59 16 Weber State
-8 Gonzaga 85-77 9 Oklahoma State
-5 Oklahoma 75-80 12 North Dakota State
-4 San Diego State 73-69 13 New Mexico State
+1 Arizona 68-59 16 Weber St
+8 Gonzaga 85-77 9 Oklahoma St
+5 Oklahoma 75-80 12 ND St
+4 San Diego St 73-69 13 New Mexico St
 6 Baylor 74-60 11 Nebraska
 3 Creighton 76-66 14 Louisiana
 7 Oregon 87-68 10 BYU
 2 Wisconsin 75-35 15 American
 1 Arizona 84-61 8 Gonzaga
-12 North Dakota State 44-63 4 San Diego State
+12 ND St 44-63 4 San Diego St
 6 Baylor 85-55 3 Creighton
 7 Oregon 77-85 2 Wisconsin
-1 Arizona 70-64 4 San Diego State
+1 Arizona 70-64 4 San Diego St
 6 Baylor 52-69 2 Wisconsin
 1 Arizona 63-64 2 Wisconsin
 7 UConn 63-53 1 Florida
@@ -1920,80 +1920,80 @@
 7 UConn 60-54 8 Kentucky
 2015
 1 Villanova 93-52 16 Lafayette
-8 NC State 66-65 9 LSU
-5 Northern Iowa 71-54 12 Wyoming
-4 Louisville 57-55 13 UC-Irvine
+8 NC St 66-65 9 LSU
+5 N Iowa 71-54 12 Wyoming
+4 Louisville 57-55 13 UC Irvine
 6 Providence 53-66 11 Dayton
-3 Oklahoma 69-60 14 Albany (NY)
-7 Michigan State 70-63 10 Georgia
+3 Oklahoma 69-60 14 Albany
+7 Michigan St 70-63 10 Georgia
 2 Virginia 79-67 15 Belmont
-1 Villanova 68-71 8 NC State
-5 Northern Iowa 53-66 4 Louisville
+1 Villanova 68-71 8 NC St
+5 N Iowa 53-66 4 Louisville
 11 Dayton 66-72 3 Oklahoma
-7 Michigan State 60-54 2 Virginia
-8 NC State 65-75 4 Louisville
-3 Oklahoma 58-62 7 Michigan State
-4 Louisville 70-76 7 Michigan State
+7 Michigan St 60-54 2 Virginia
+8 NC St 65-75 4 Louisville
+3 Oklahoma 58-62 7 Michigan St
+4 Louisville 70-76 7 Michigan St
 1 Kentucky 79-56 16 Hampton
 8 Cincinnati 66-65 9 Purdue
 5 West Virginia 68-62 12 Buffalo
 4 Maryland 65-62 13 Valparaiso
 6 Butler 56-48 11 Texas
 3 Notre Dame 69-65 14 Northeastern
-7 Wichita State 81-76 10 Indiana
-2 Kansas 75-56 15 New Mexico State
+7 Wichita St 81-76 10 Indiana
+2 Kansas 75-56 15 New Mexico St
 1 Kentucky 64-51 8 Cincinnati
 5 West Virginia 69-59 4 Maryland
 6 Butler 64-67 3 Notre Dame
-7 Wichita State 78-65 2 Kansas
+7 Wichita St 78-65 2 Kansas
 1 Kentucky 78-39 5 West Virginia
-3 Notre Dame 81-70 7 Wichita State
+3 Notre Dame 81-70 7 Wichita St
 1 Kentucky 68-66 3 Notre Dame
 1 Duke 85-56 16 Robert Morris
-8 San Diego State 76-64 9 St. John's (NY)
-5 Utah 57-50 12 Stephen F. Austin
-4 Georgetown 84-74 13 Eastern Washington
+8 San Diego St 76-64 9 St. Johns
+5 Utah 57-50 12 SFA
+4 Georgetown 84-74 13 E Wash
 6 SMU 59-60 11 UCLA
-3 Iowa State 59-60 14 UAB
+3 Iowa St 59-60 14 UAB
 7 Iowa 83-52 10 Davidson
-2 Gonzaga 86-76 15 North Dakota State
-1 Duke 68-49 8 San Diego State
+2 Gonzaga 86-76 15 ND St
+1 Duke 68-49 8 San Diego St
 5 Utah 75-64 4 Georgetown
 11 UCLA 92-75 14 UAB
 7 Iowa 68-87 2 Gonzaga
 1 Duke 63-57 5 Utah
 11 UCLA 62-74 2 Gonzaga
 1 Duke 66-52 2 Gonzaga
-1 Wisconsin 86-72 16 Coastal Carolina
-8 Oregon 79-73 9 Oklahoma State
+1 Wisconsin 86-72 16 CCU
+8 Oregon 79-73 9 Oklahoma St
 5 Arkansas 56-53 12 Wofford
 4 UNC 67-65 13 Harvard
 6 Xavier 76-57 11 Ole Miss
-3 Baylor 56-57 14 Georgia State
-7 VCU 72-75 10 Ohio State
-2 Arizona 93-72 15 Texas Southern
+3 Baylor 56-57 14 Georgia St
+7 VCU 72-75 10 Ohio St
+2 Arizona 93-72 15 Texas So
 1 Wisconsin 72-65 8 Oregon
 5 Arkansas 78-87 4 UNC
-6 Xavier 75-67 14 Georgia State
-10 Ohio State 58-73 2 Arizona
+6 Xavier 75-67 14 Georgia St
+10 Ohio St 58-73 2 Arizona
 1 Wisconsin 79-72 4 UNC
 6 Xavier 60-68 2 Arizona
 1 Wisconsin 85-78 2 Arizona
-1 Duke 81-61 7 Michigan State
+1 Duke 81-61 7 Michigan St
 1 Kentucky 64-71 1 Wisconsin
 1 Duke 68-63 1 Wisconsin
 2016
-1 UNC 83-67 16 Florida Gulf Coast
+1 UNC 83-67 16 FGCU
 8 USC 69-70 9 Providence
 5 Indiana 99-74 12 Chattanooga
 4 Kentucky 85-57 13 Stony Brook
 6 Notre Dame 70-63 11 Michigan
-3 West Virginia 56-70 14 Stephen F. Austin
+3 West Virginia 56-70 14 SFA
 7 Wisconsin 47-43 10 Pitt
-2 Xavier 71-53 15 Weber State
+2 Xavier 71-53 15 Weber St
 1 UNC 85-66 9 Providence
 5 Indiana 73-67 4 Kentucky
-6 Notre Dame 76-75 14 Stephen F. Austin
+6 Notre Dame 76-75 14 SFA
 7 Wisconsin 66-63 2 Xavier
 1 UNC 101-86 5 Indiana
 6 Notre Dame 61-56 7 Wisconsin
@@ -2001,44 +2001,44 @@
 1 Virginia 81-45 16 Hampton
 8 Texas Tech 61-71 9 Butler
 5 Purdue 83-85 12 Little Rock
-4 Iowa State 94-81 13 Iona
+4 Iowa St 94-81 13 Iona
 6 Seton Hall 52-68 11 Gonzaga
-3 Utah 80-69 14 Fresno State
+3 Utah 80-69 14 Fresno St
 7 Dayton 51-70 10 Syracuse
-2 Michigan State 81-90 15 Middle Tennessee
+2 Michigan St 81-90 15 MTSU
 1 Virginia 77-69 9 Butler
-12 Little Rock 61-78 4 Iowa State
+12 Little Rock 61-78 4 Iowa St
 11 Gonzaga 82-59 3 Utah
-10 Syracuse 75-50 15 Middle Tennessee
-1 Virginia 84-71 4 Iowa State
+10 Syracuse 75-50 15 MTSU
+1 Virginia 84-71 4 Iowa St
 11 Gonzaga 60-63 10 Syracuse
 1 Virginia 62-68 10 Syracuse
 1 Kansas 105-79 16 Austin Peay
 8 Colorado 67-74 9 UConn
-5 Maryland 79-74 12 South Dakota State
+5 Maryland 79-74 12 SD St
 4 California 66-77 13 Hawaii
-6 Arizona 55-65 11 Wichita State
-3 Miami (FL) 79-72 14 Buffalo
+6 Arizona 55-65 11 Wichita St
+3 Miami 79-72 14 Buffalo
 7 Iowa 72-70 10 Temple
-2 Villanova 86-56 15 UNC Asheville
+2 Villanova 86-56 15 UNCA
 1 Kansas 73-61 9 UConn
 5 Maryland 73-60 13 Hawaii
-11 Wichita State 57-65 3 Miami (FL)
+11 Wichita St 57-65 3 Miami
 7 Iowa 68-87 2 Villanova
 1 Kansas 79-63 5 Maryland
-3 Miami (FL) 69-92 2 Villanova
+3 Miami 69-92 2 Villanova
 1 Kansas 59-64 2 Villanova
 1 Oregon 91-52 16 Holy Cross
 8 St. Joseph's 78-76 9 Cincinnati
 5 Baylor 75-79 12 Yale
-4 Duke 93-85 13 UNC Wilmington
-6 Texas 72-75 11 Northern Iowa
+4 Duke 93-85 13 UNCW
+6 Texas 72-75 11 N Iowa
 3 Texas A&M 92-65 14 Green Bay
-7 Oregon State 67-75 10 VCU
-2 Oklahoma 82-68 15 Cal State Bakersfield
+7 Oregon St 67-75 10 VCU
+2 Oklahoma 82-68 15 CS Bakersfield
 1 Oregon 69-64 8 St. Joseph's
 12 Yale 64-71 4 Duke
-11 Northern Iowa 88-92 3 Texas A&M
+11 N Iowa 88-92 3 Texas A&M
 10 VCU 81-85 2 Oklahoma
 1 Oregon 82-68 4 Duke
 3 Texas A&M 63-77 2 Oklahoma
@@ -2047,12 +2047,12 @@
 10 Syracuse 66-83 1 UNC
 2 Villanova 77-74 1 UNC
 2017
-1 Villanova 76-56 16 Mount St. Mary's
+1 Villanova 76-56 16 MSM
 8 Wisconsin 84-74 9 Virginia Tech
-5 Virginia 76-71 12 UNC Wilmington
+5 Virginia 76-71 12 UNCW
 4 Florida 80-65 13 ETSU
 6 SMU 65-66 11 USC
-3 Baylor 91-73 14 New Mexico State
+3 Baylor 91-73 14 New Mexico St
 7 South Carolina 93-73 10 Marquette
 2 Duke 87-65 15 Troy
 1 Villanova 62-65 8 Wisconsin
@@ -2062,47 +2062,47 @@
 8 Wisconsin 83-84 4 Florida
 3 Baylor 50-70 7 South Carolina
 4 Florida 70-77 7 South Carolina
-1 Kansas 100-62 16 UC-Davis
-8 Miami (FL) 58-78 9 Michigan State
-5 Iowa State 84-73 12 Nevada
+1 Kansas 100-62 16 UC Davis
+8 Miami 58-78 9 Michigan St
+5 Iowa St 84-73 12 Nevada
 4 Purdue 80-70 13 Vermont
 6 Creighton 72-84 11 Rhode Island
 3 Oregon 93-77 14 Iona
-7 Michigan 92-91 10 Oklahoma State
-2 Louisville 78-63 15 Jacksonville State
-1 Kansas 90-70 9 Michigan State
-5 Iowa State 76-80 4 Purdue
+7 Michigan 92-91 10 Oklahoma St
+2 Louisville 78-63 15 Jacksonville St
+1 Kansas 90-70 9 Michigan St
+5 Iowa St 76-80 4 Purdue
 11 Rhode Island 72-75 3 Oregon
 7 Michigan 73-69 2 Louisville
 1 Kansas 98-66 4 Purdue
 3 Oregon 69-68 7 Michigan
 1 Kansas 60-74 3 Oregon
-1 UNC 103-64 16 Texas Southern
+1 UNC 103-64 16 Texas So
 8 Arkansas 77-71 9 Seton Hall
-5 Minnesota 72-81 12 Middle Tennessee
+5 Minnesota 72-81 12 MTSU
 4 Butler 76-64 13 Winthrop
-6 Cincinnati 75-61 11 Kansas State
-3 UCLA 97-80 14 Kent State
-7 Dayton 58-64 10 Wichita State
-2 Kentucky 79-70 15 Northern Kentucky
+6 Cincinnati 75-61 11 Kansas St
+3 UCLA 97-80 14 Kent St
+7 Dayton 58-64 10 Wichita St
+2 Kentucky 79-70 15 NKU
 1 UNC 72-65 8 Arkansas
-12 Middle Tennessee 65-74 4 Butler
+12 MTSU 65-74 4 Butler
 6 Cincinnati 67-79 3 UCLA
-10 Wichita State 62-65 2 Kentucky
+10 Wichita St 62-65 2 Kentucky
 1 UNC 92-80 4 Butler
 3 UCLA 75-86 2 Kentucky
 1 UNC 75-73 2 Kentucky
-1 Gonzaga 66-46 16 South Dakota State
+1 Gonzaga 66-46 16 SD St
 8 Northwestern 68-66 9 Vanderbilt
 5 Notre Dame 60-58 12 Princeton
 4 West Virginia 86-80 13 Bucknell
 6 Maryland 65-76 11 Xavier
-3 Florida State 86-80 14 Florida Gulf Coast
+3 Florida St 86-80 14 FGCU
 7 Saint Mary's 85-77 10 VCU
 2 Arizona 100-82 15 North Dakota
 1 Gonzaga 79-73 8 Northwestern
 5 Notre Dame 71-83 4 West Virginia
-11 Xavier 91-66 3 Florida State
+11 Xavier 91-66 3 Florida St
 7 Saint Mary's 60-69 2 Arizona
 1 Gonzaga 61-58 4 West Virginia
 11 Xavier 73-71 2 Arizona
@@ -2113,12 +2113,12 @@
 2018
 1 Villanova 87-61 16 Radford
 8 Virginia Tech 83-86 9 Alabama
-5 West Virginia 85-68 12 Murray State
-4 Wichita State 75-81 13 Marshall
-6 Florida 77-62 11 St. Bonaventure
-3 Texas Tech 70-60 14 Stephen F. Austin
+5 West Virginia 85-68 12 Murray St
+4 Wichita St 75-81 13 Marshall
+6 Florida 77-62 11 St. Bonnie
+3 Texas Tech 70-60 14 SFA
 7 Arkansas 62-79 10 Butler
-2 Purdue 74-48 15 Cal State Fullerton
+2 Purdue 74-48 15 CS Fullerton
 1 Villanova 81-58 9 Alabama
 5 West Virginia 94-71 13 Marshall
 6 Florida 66-69 3 Texas Tech
@@ -2127,80 +2127,80 @@
 3 Texas Tech 78-65 2 Purdue
 1 Villanova 71-59 3 Texas Tech
 1 Kansas 76-60 16 Penn
-8 Seton Hall 94-83 9 NC State
-5 Clemson 79-68 12 New Mexico State
-4 Auburn 62-58 13 College of Charleston
+8 Seton Hall 94-83 9 NC St
+5 Clemson 79-68 12 New Mexico St
+4 Auburn 62-58 13 Charleston
 6 TCU 52-57 11 Syracuse
-3 Michigan State 82-78 14 Bucknell
+3 Michigan St 82-78 14 Bucknell
 7 Rhode Island 83-78 10 Oklahoma
 2 Duke 89-67 15 Iona
 1 Kansas 83-79 8 Seton Hall
 5 Clemson 84-53 4 Auburn
-11 Syracuse 55-53 3 Michigan State
+11 Syracuse 55-53 3 Michigan St
 7 Rhode Island 62-87 2 Duke
 1 Kansas 80-76 5 Clemson
 11 Syracuse 65-69 2 Duke
 1 Kansas 85-81 2 Duke
 1 Virginia 54-74 16 UMBC
-8 Creighton 59-69 9 Kansas State
+8 Creighton 59-69 9 Kansas St
 5 Kentucky 78-73 12 Davidson
 4 Arizona 68-89 13 Buffalo
-6 Miami (FL) 62-64 11 Loyola (IL)
-3 Tennessee 73-47 14 Wright State
+6 Miami 62-64 11 Loyola Chicago
+3 Tennessee 73-47 14 Wright St
 7 Nevada 87-83 10 Texas
-2 Cincinnati 68-53 15 Georgia State
-16 UMBC 43-50 9 Kansas State
+2 Cincinnati 68-53 15 Georgia St
+16 UMBC 43-50 9 Kansas St
 5 Kentucky 95-75 13 Buffalo
-11 Loyola (IL) 63-62 3 Tennessee
+11 Loyola Chicago 63-62 3 Tennessee
 7 Nevada 75-73 2 Cincinnati
-9 Kansas State 61-58 5 Kentucky
-11 Loyola (IL) 69-68 7 Nevada
-9 Kansas State 62-78 11 Loyola (IL)
-1 Xavier 102-83 16 Texas Southern
-8 Missouri 54-67 9 Florida State
-5 Ohio State 81-73 12 South Dakota State
-4 Gonzaga 68-64 13 UNC Greensboro
-6 Houston 67-65 11 San Diego State
+9 Kansas St 61-58 5 Kentucky
+11 Loyola Chicago 69-68 7 Nevada
+9 Kansas St 62-78 11 Loyola Chicago
+1 Xavier 102-83 16 Texas So
+8 Missouri 54-67 9 Florida St
+5 Ohio St 81-73 12 SD St
+4 Gonzaga 68-64 13 UNCG
+6 Houston 67-65 11 San Diego St
 3 Michigan 61-47 14 Montana
 7 Texas A&M 73-69 10 Providence
 2 UNC 84-66 15 Lipscomb
-1 Xavier 70-75 9 Florida State
-5 Ohio State 84-90 4 Gonzaga
+1 Xavier 70-75 9 Florida St
+5 Ohio St 84-90 4 Gonzaga
 6 Houston 63-64 3 Michigan
 7 Texas A&M 86-65 2 UNC
-9 Florida State 75-60 4 Gonzaga
+9 Florida St 75-60 4 Gonzaga
 3 Michigan 99-72 7 Texas A&M
-9 Florida State 54-58 3 Michigan
+9 Florida St 54-58 3 Michigan
 1 Villanova 95-79 1 Kansas
-11 Loyola (IL) 57-69 3 Michigan
+11 Loyola Chicago 57-69 3 Michigan
 1 Villanova 79-62 3 Michigan
 2019
-1 Duke 85-62 16 North Dakota State
+1 Duke 85-62 16 ND St
 8 VCU 58-73 9 UCF
-5 Mississippi State 76-80 12 Liberty
-4 Virginia Tech 66-52 13 Saint Louis
+5 Mississippi St 76-80 12 Liberty
+4 Virginia Tech 66-52 13 St. Louis
 6 Maryland 79-77 11 Belmont
 3 LSU 79-74 14 Yale
 7 Louisville 76-86 10 Minnesota
-2 Michigan State 76-65 15 Bradley
+2 Michigan St 76-65 15 Bradley
 1 Duke 77-76 9 UCF
 12 Liberty 58-67 4 Virginia Tech
 6 Maryland 67-69 3 LSU
-10 Minnesota 50-70 2 Michigan State
+10 Minnesota 50-70 2 Michigan St
 1 Duke 75-73 4 Virginia Tech
-3 LSU 63-80 2 Michigan State
-1 Duke 67-68 2 Michigan State
+3 LSU 63-80 2 Michigan St
+1 Duke 67-68 2 Michigan St
 1 UNC 88-73 16 Iona
-8 Utah State 61-78 9 Washington
-5 Auburn 78-77 12 New Mexico State
+8 Utah St 61-78 9 Washington
+5 Auburn 78-77 12 New Mexico St
 4 Kansas 87-53 13 Northeastern
-6 Iowa State 59-62 11 Ohio State
-3 Houston 84-55 14 Georgia State
+6 Iowa St 59-62 11 Ohio St
+3 Houston 84-55 14 Georgia St
 7 Wofford 84-68 10 Seton Hall
-2 Kentucky 79-44 15 Abilene Christian
+2 Kentucky 79-44 15 ACU
 1 UNC 81-59 9 Washington
 5 Auburn 89-75 4 Kansas
-11 Ohio State 59-74 3 Houston
+11 Ohio St 59-74 3 Houston
 7 Wofford 56-62 2 Kentucky
 1 UNC 80-97 5 Auburn
 3 Houston 58-62 2 Kentucky
@@ -2208,13 +2208,13 @@
 1 Virginia 71-56 16 Gardner-Webb
 8 Ole Miss 72-95 9 Oklahoma
 5 Wisconsin 54-72 12 Oregon
-4 Kansas State 64-70 13 UC-Irvine
+4 Kansas St 64-70 13 UC Irvine
 6 Villanova 61-57 11 Saint Mary's
 3 Purdue 61-48 14 Old Dominion
 7 Cincinnati 72-79 10 Iowa
 2 Tennessee 77-70 15 Colgate
 1 Virginia 63-51 9 Oklahoma
-12 Oregon 73-54 13 UC-Irvine
+12 Oregon 73-54 13 UC Irvine
 6 Villanova 61-87 3 Purdue
 10 Iowa 77-83 2 Tennessee
 1 Virginia 53-49 12 Oregon
@@ -2222,75 +2222,75 @@
 1 Virginia 80-75 3 Purdue
 1 Gonzaga 87-49 16 FDU
 8 Syracuse 69-78 9 Baylor
-5 Marquette 64-83 12 Murray State
-4 Florida State 76-69 13 Vermont
-6 Buffalo 91-74 11 Arizona State
-3 Texas Tech 72-57 14 Northern Kentucky
+5 Marquette 64-83 12 Murray St
+4 Florida St 76-69 13 Vermont
+6 Buffalo 91-74 11 Arizona St
+3 Texas Tech 72-57 14 NKU
 7 Nevada 61-70 10 Florida
 2 Michigan 74-55 15 Montana
 1 Gonzaga 83-71 9 Baylor
-12 Murray State 62-90 4 Florida State
+12 Murray St 62-90 4 Florida St
 6 Buffalo 58-78 3 Texas Tech
 10 Florida 49-64 2 Michigan
-1 Gonzaga 72-58 4 Florida State
+1 Gonzaga 72-58 4 Florida St
 3 Texas Tech 63-44 2 Michigan
 1 Gonzaga 69-75 3 Texas Tech
 1 Virginia 63-62 5 Auburn
-3 Texas Tech 61-51 2 Michigan State
+3 Texas Tech 61-51 2 Michigan St
 1 Virginia 85-77 3 Texas Tech
 2021
-1 Michigan 82-66 16 Texas Southern
-8 LSU 76-61 9 St. Bonaventure
+1 Michigan 82-66 16 Texas So
+8 LSU 76-61 9 St. Bonnie
 5 Colorado 96-73 12 Georgetown
-4 Florida State 64-54 13 UNC Greensboro
+4 Florida St 64-54 13 UNCG
 6 BYU 62-73 11 UCLA
-3 Texas 52-53 14 Abilene Christian
+3 Texas 52-53 14 ACU
 7 UConn 54-63 10 Maryland
 2 Alabama 68-55 15 Iona
 1 Michigan 86-78 8 LSU
-5 Colorado 53-71 4 Florida State
-11 UCLA 67-47 14 Abilene Christian
+5 Colorado 53-71 4 Florida St
+11 UCLA 67-47 14 ACU
 10 Maryland 77-96 2 Alabama
-1 Michigan 76-58 4 Florida State
+1 Michigan 76-58 4 Florida St
 11 UCLA 88-78 2 Alabama
 1 Michigan 49-51 11 UCLA
 1 Illinois 78-49 16 Drexel
-8 Loyola (IL) 71-60 9 Georgia Tech
-5 Tennessee 56-70 12 Oregon State
-4 Oklahoma State 69-60 13 Liberty
-6 San Diego State 62-78 11 Syracuse
-3 West Virginia 84-67 14 Morehead State
+8 Loyola Chicago 71-60 9 Georgia Tech
+5 Tennessee 56-70 12 Oregon St
+4 Oklahoma St 69-60 13 Liberty
+6 San Diego St 62-78 11 Syracuse
+3 West Virginia 84-67 14 Morehead St
 7 Clemson 56-60 10 Rutgers
-2 Houston 87-56 15 Cleveland State
-1 Illinois 58-71 8 Loyola (IL)
-12 Oregon State 80-70 4 Oklahoma State
+2 Houston 87-56 15 Cleveland St
+1 Illinois 58-71 8 Loyola Chicago
+12 Oregon St 80-70 4 Oklahoma St
 11 Syracuse 75-72 3 West Virginia
 10 Rutgers 60-63 2 Houston
-8 Loyola (IL) 58-65 12 Oregon State
+8 Loyola Chicago 58-65 12 Oregon St
 11 Syracuse 46-62 2 Houston
-12 Oregon State 61-67 2 Houston
+12 Oregon St 61-67 2 Houston
 1 Baylor 79-55 16 Hartford
 8 UNC 62-85 9 Wisconsin
 5 Villanova 73-63 12 Winthrop
-4 Purdue 69-78 13 North Texas
-6 Texas Tech 65-53 11 Utah State
+4 Purdue 69-78 13 UNT
+6 Texas Tech 65-53 11 Utah St
 3 Arkansas 85-68 14 Colgate
 7 Florida 75-70 10 Virginia Tech
-2 Ohio State 72-75 15 Oral Roberts
+2 Ohio St 72-75 15 Oral Roberts
 1 Baylor 76-63 9 Wisconsin
-5 Villanova 84-61 13 North Texas
+5 Villanova 84-61 13 UNT
 6 Texas Tech 66-68 3 Arkansas
 7 Florida 78-81 15 Oral Roberts
 1 Baylor 62-51 5 Villanova
 3 Arkansas 72-70 15 Oral Roberts
 1 Baylor 81-72 3 Arkansas
-1 Gonzaga 98-55 16 Norfolk State
+1 Gonzaga 98-55 16 Norfolk St
 8 Oklahoma 72-68 9 Missouri
 5 Creighton 63-62 12 UCSB
 4 Virginia 58-62 13 Ohio
 6 USC 72-56 11 Drake
-3 Kansas 93-84 14 Eastern Washington
-2 Iowa 86-74 15 Grand Canyon
+3 Kansas 93-84 14 E Wash
+2 Iowa 86-74 15 GCU
 1 Gonzaga 87-71 8 Oklahoma
 5 Creighton 72-58 13 Ohio
 6 USC 85-51 3 Kansas
@@ -2302,63 +2302,63 @@
 1 Gonzaga 93-90 11 UCLA
 1 Baylor 86-70 1 Gonzaga
 2022
-1 Baylor 85-49 16 Norfolk State
+1 Baylor 85-49 16 Norfolk St
 8 UNC 95-63 9 Marquette
 5 Saint Mary's 82-53 12 Indiana
 4 UCLA 57-53 13 Akron
 6 Texas 81-73 11 Virginia Tech
 3 Purdue 78-56 14 Yale
-7 Murray State 92-87 10 San Francisco
+7 Murray St 92-87 10 San Francisco
 2 Kentucky 79-85 15 St. Peter's
 1 Baylor 86-93 8 UNC
 5 Saint Mary's 56-72 4 UCLA
 6 Texas 71-81 3 Purdue
-7 Murray State 60-70 15 St. Peter's
+7 Murray St 60-70 15 St. Peter's
 8 UNC 73-66 4 UCLA
 3 Purdue 64-67 15 St. Peter's
 8 UNC 69-49 15 St. Peter's
-1 Kansas 83-56 16 Texas Southern
-8 San Diego State 69-72 9 Creighton
+1 Kansas 83-56 16 Texas So
+8 San Diego St 69-72 9 Creighton
 5 Iowa 63-67 12 Richmond
-4 Providence 66-57 13 South Dakota State
-6 LSU 54-59 11 Iowa State
+4 Providence 66-57 13 SD St
+6 LSU 54-59 11 Iowa St
 3 Wisconsin 67-60 14 Colgate
-7 USC 66-68 10 Miami (FL)
-2 Auburn 80-61 15 Jacksonville State
+7 USC 66-68 10 Miami
+2 Auburn 80-61 15 Jacksonville St
 1 Kansas 79-72 9 Creighton
 12 Richmond 51-79 4 Providence
-11 Iowa State 54-49 3 Wisconsin
-10 Miami (FL) 79-61 2 Auburn
+11 Iowa St 54-49 3 Wisconsin
+10 Miami 79-61 2 Auburn
 1 Kansas 66-61 4 Providence
-11 Iowa State 56-70 10 Miami (FL)
-1 Kansas 76-50 10 Miami (FL)
-1 Arizona 87-70 16 Wright State
+11 Iowa St 56-70 10 Miami
+1 Kansas 76-50 10 Miami
+1 Arizona 87-70 16 Wright St
 8 Seton Hall 42-69 9 TCU
 5 Houston 82-68 12 UAB
 4 Illinois 54-53 13 Chattanooga
-6 Colorado State 63-75 11 Michigan
+6 Colorado St 63-75 11 Michigan
 3 Tennessee 88-56 14 Longwood
-7 Ohio State 54-41 10 Loyola (IL)
+7 Ohio St 54-41 10 Loyola Chicago
 2 Villanova 80-60 15 Delaware
 1 Arizona 85-80 9 TCU
 5 Houston 68-53 4 Illinois
 11 Michigan 76-68 3 Tennessee
-7 Ohio State 61-71 2 Villanova
+7 Ohio St 61-71 2 Villanova
 1 Arizona 60-72 5 Houston
 11 Michigan 55-63 2 Villanova
 5 Houston 44-50 2 Villanova
-1 Gonzaga 93-72 16 Georgia State
-8 Boise State 53-64 9 Memphis
-5 UConn 63-70 12 New Mexico State
+1 Gonzaga 93-72 16 Georgia St
+8 Boise St 53-64 9 Memphis
+5 UConn 63-70 12 New Mexico St
 4 Arkansas 75-71 13 Vermont
 6 Alabama 64-78 11 Notre Dame
-3 Texas Tech 97-62 14 Montana State
-7 Michigan State 74-73 10 Davidson
-2 Duke 78-61 15 Cal State Fullerton
+3 Texas Tech 97-62 14 Montana St
+7 Michigan St 74-73 10 Davidson
+2 Duke 78-61 15 CS Fullerton
 1 Gonzaga 82-78 9 Memphis
-12 New Mexico State 48-53 4 Arkansas
+12 New Mexico St 48-53 4 Arkansas
 11 Notre Dame 53-59 3 Texas Tech
-7 Michigan State 76-85 2 Duke
+7 Michigan St 76-85 2 Duke
 1 Gonzaga 68-74 4 Arkansas
 3 Texas Tech 73-78 2 Duke
 4 Arkansas 69-78 2 Duke
@@ -2367,58 +2367,58 @@
 1 Kansas 72-69 8 UNC
 2023
 1 Purdue 58-63 16 FDU
-8 Memphis 65-66 9 Florida Atlantic
+8 Memphis 65-66 9 FAU
 5 Duke 74-51 12 Oral Roberts
 4 Tennessee 58-55 13 Louisiana
 6 Kentucky 61-53 11 Providence
-3 Kansas State 77-65 14 Montana State
-7 Michigan State 72-62 10 USC
+3 Kansas St 77-65 14 Montana St
+7 Michigan St 72-62 10 USC
 2 Marquette 78-61 15 Vermont
-16 FDU 70-78 9 Florida Atlantic
+16 FDU 70-78 9 FAU
 5 Duke 52-65 4 Tennessee
-6 Kentucky 69-75 3 Kansas State
-7 Michigan State 69-60 2 Marquette
-9 Florida Atlantic 62-55 4 Tennessee
-3 Kansas State 98-93 7 Michigan State
-9 Florida Atlantic 79-76 3 Kansas State
-1 Houston 63-52 16 Northern Kentucky
+6 Kentucky 69-75 3 Kansas St
+7 Michigan St 69-60 2 Marquette
+9 FAU 62-55 4 Tennessee
+3 Kansas St 98-93 7 Michigan St
+9 FAU 79-76 3 Kansas St
+1 Houston 63-52 16 NKU
 8 Iowa 75-83 9 Auburn
-5 Miami (FL) 63-56 12 Drake
-4 Indiana 71-60 13 Kent State
-6 Iowa State 41-59 11 Pitt
-3 Xavier 72-67 14 Kennesaw State
-7 Texas A&M 59-76 10 Penn State
+5 Miami 63-56 12 Drake
+4 Indiana 71-60 13 Kent St
+6 Iowa St 41-59 11 Pitt
+3 Xavier 72-67 14 Kennesaw St
+7 Texas A&M 59-76 10 Penn St
 2 Texas 81-61 15 Colgate
 1 Houston 81-64 9 Auburn
-5 Miami (FL) 85-69 4 Indiana
+5 Miami 85-69 4 Indiana
 11 Pitt 73-84 3 Xavier
-10 Penn State 66-71 2 Texas
-1 Houston 75-89 5 Miami (FL)
+10 Penn St 66-71 2 Texas
+1 Houston 75-89 5 Miami
 3 Xavier 71-83 2 Texas
-5 Miami (FL) 88-81 2 Texas
-1 Alabama 96-75 16 Texas A&M-Corpus Christi
+5 Miami 88-81 2 Texas
+1 Alabama 96-75 16 TAMU-CC
 8 Maryland 67-65 9 West Virginia
-5 San Diego State 63-57 12 College of Charleston
+5 San Diego St 63-57 12 Charleston
 4 Virginia 67-68 13 Furman
-6 Creighton 72-63 11 NC State
+6 Creighton 72-63 11 NC St
 3 Baylor 74-56 14 UCSB
-7 Missouri 76-65 10 Utah State
+7 Missouri 76-65 10 Utah St
 2 Arizona 55-59 15 Princeton
 1 Alabama 73-51 8 Maryland
-5 San Diego State 75-52 13 Furman
+5 San Diego St 75-52 13 Furman
 6 Creighton 85-76 3 Baylor
 7 Missouri 63-78 15 Princeton
-1 Alabama 64-71 5 San Diego State
+1 Alabama 64-71 5 San Diego St
 6 Creighton 86-75 15 Princeton
-5 San Diego State 57-56 6 Creighton
+5 San Diego St 57-56 6 Creighton
 1 Kansas 96-68 16 Howard
 8 Arkansas 73-63 9 Illinois
 5 Saint Mary's 63-51 12 VCU
 4 UConn 87-63 13 Iona
-6 TCU 72-70 11 Arizona State
-3 Gonzaga 82-70 14 Grand Canyon
-7 Northwestern 75-67 10 Boise State
-2 UCLA 86-53 15 UNC Asheville
+6 TCU 72-70 11 Arizona St
+3 Gonzaga 82-70 14 GCU
+7 Northwestern 75-67 10 Boise St
+2 UCLA 86-53 15 UNCA
 1 Kansas 71-72 8 Arkansas
 5 Saint Mary's 55-70 4 UConn
 6 TCU 81-84 3 Gonzaga
@@ -2426,34 +2426,34 @@
 8 Arkansas 65-88 4 UConn
 3 Gonzaga 79-76 2 UCLA
 4 UConn 82-54 3 Gonzaga
-9 Florida Atlantic 71-72 5 San Diego State
-5 Miami (FL) 59-72 4 UConn
-5 San Diego State 59-76 4 UConn
+9 FAU 71-72 5 San Diego St
+5 Miami 59-72 4 UConn
+5 San Diego St 59-76 4 UConn
 2024
 1 UConn 91-52 16 Stetson
-8 Florida Atlantic 65-77 9 Northwestern
-5 San Diego State 69-65 12 UAB
+8 FAU 65-77 9 Northwestern
+5 San Diego St 69-65 12 UAB
 4 Auburn 76-78 13 Yale
 6 BYU 67-71 11 Duquesne
-3 Illinois 85-69 14 Morehead State
-7 Washington State 66-61 10 Drake
-2 Iowa State 82-65 15 South Dakota State
+3 Illinois 85-69 14 Morehead St
+7 Washington St 66-61 10 Drake
+2 Iowa St 82-65 15 SD St
 1 UConn 75-58 9 Northwestern
-5 San Diego State 85-57 13 Yale
+5 San Diego St 85-57 13 Yale
 11 Duquesne 63-89 3 Illinois
-7 Washington State 56-67 2 Iowa State
-1 UConn 82-52 5 San Diego State
-3 Illinois 72-69 2 Iowa State
+7 Washington St 56-67 2 Iowa St
+1 UConn 82-52 5 San Diego St
+3 Illinois 72-69 2 Iowa St
 1 UConn 77-52 3 Illinois
 1 Purdue 78-50 16 Grambling
-8 Utah State 88-72 9 TCU
-5 Gonzaga 86-65 12 McNeese State
+8 Utah St 88-72 9 TCU
+5 Gonzaga 86-65 12 McNeese St
 4 Kansas 93-89 13 Samford
 6 South Carolina 73-87 11 Oregon
 3 Creighton 77-60 14 Akron
-7 Texas 56-44 10 Colorado State
+7 Texas 56-44 10 Colorado St
 2 Tennessee 83-49 15 St. Peter's
-1 Purdue 106-67 8 Utah State
+1 Purdue 106-67 8 Utah St
 5 Gonzaga 89-68 4 Kansas
 11 Oregon 73-86 3 Creighton
 7 Texas 58-62 2 Tennessee
@@ -2462,34 +2462,34 @@
 1 Purdue 72-66 2 Tennessee
 1 Houston 86-46 16 Longwood
 8 Nebraska 83-98 9 Texas A&M
-5 Wisconsin 61-72 12 James Madison
+5 Wisconsin 61-72 12 JMU
 4 Duke 64-47 13 Vermont
-6 Texas Tech 67-80 11 NC State
+6 Texas Tech 67-80 11 NC St
 3 Kentucky 76-80 14 Oakland
 7 Florida 100-102 10 Colorado
-2 Marquette 87-69 15 Western Kentucky
+2 Marquette 87-69 15 WKU
 1 Houston 100-95 9 Texas A&M
-12 James Madison 55-93 4 Duke
-11 NC State 79-73 14 Oakland
+12 JMU 55-93 4 Duke
+11 NC St 79-73 14 Oakland
 10 Colorado 77-81 2 Marquette
 1 Houston 51-54 4 Duke
-11 NC State 67-58 2 Marquette
-4 Duke 64-76 11 NC State
+11 NC St 67-58 2 Marquette
+4 Duke 64-76 11 NC St
 1 UNC 90-62 16 Wagner
-8 Mississippi State 51-69 9 Michigan State
-5 Saint Mary's 66-75 12 Grand Canyon
-4 Alabama 109-96 13 College of Charleston
+8 Mississippi St 51-69 9 Michigan St
+5 Saint Mary's 66-75 12 GCU
+4 Alabama 109-96 13 Charleston
 6 Clemson 77-56 11 New Mexico
 3 Baylor 92-67 14 Colgate
 7 Dayton 63-60 10 Nevada
-2 Arizona 85-65 15 Long Beach State
-1 UNC 85-69 9 Michigan State
-12 Grand Canyon 61-72 4 Alabama
+2 Arizona 85-65 15 Long Beach St
+1 UNC 85-69 9 Michigan St
+12 GCU 61-72 4 Alabama
 6 Clemson 72-64 3 Baylor
 7 Dayton 68-78 2 Arizona
 1 UNC 87-89 4 Alabama
 6 Clemson 77-72 2 Arizona
 4 Alabama 89-82 6 Clemson
 1 UConn 86-72 4 Alabama
-1 Purdue 63-50 11 NC State
+1 Purdue 63-50 11 NC St
 1 UConn 75-60 1 Purdue
