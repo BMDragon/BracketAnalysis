@@ -53,9 +53,7 @@ for yr in range(year1, year2+1, 1):
         sub2 = sub2[split+1:]
         split = sub2.find(' ')
         seed2 = int(sub2[:split])
-        team2 = sub2[split+1:]
-
-        # print(str(seed1) + ' ' + team1 + ' ' + str(score1) + '-' + str(score2) + ' ' + str(seed2) + ' ' + team2)
+        team2 = sub2[split+1:-1]
 
         if isCC(team1, yr) and isCC(team2, yr):
             if seed1 <= seed2:
